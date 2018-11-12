@@ -1,3 +1,3 @@
 # References
 
-I have summarized references in wiki.
+The Wiki of this repository includes some references (for deep learning & robotics) that I have gathered.
