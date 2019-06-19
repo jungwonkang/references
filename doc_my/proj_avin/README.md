@@ -46,6 +46,14 @@
 <br/>
 
 
+### 2D bounding box detection
+- https://handong1587.github.io/deep_learning/2015/10/09/object-detection.html
+- [Recent advances in object detection in the age of deep convolutional neural networks](https://hal.archives-ouvertes.fr/hal-01869779/document)
+- [A paper list of object detection using deep learning](https://pythonawesome.com/a-paper-list-of-object-detection-using-deep-learning/)
+- [PVANet: lightweight deep neural networks for real-time object detection](https://youtu.be/TYDGTnxUGHQ)
+<br/>
+
+
 ### 2D Semantic segmentation survey
 - A review on deep learning techniques applied to semantic segmentation
 - Survey on semantic segmentation using deep learning techniques
@@ -65,9 +73,21 @@
 <br/>
 
 
-### Etc with code
-- Semantic Instance Segmentation with a Discriminative Loss Function
+### General obstacle detection
+- Real-time category-based and general obstacle detection for autonomous driving 
+[[Paper](http://openaccess.thecvf.com/content_ICCV_2017_workshops/papers/w3/Garnett_Real-Time_Category-Based_and_ICCV_2017_paper.pdf)]
+[[PyTorch](https://github.com/869369851/Real-time-category-based-and-general-obstacle-detection-for-autonomous-driving)]
+- J-MOD2: joint monocular obstacle detection and depth estimation
+- StixelNet: a deep convolutional network forobstacle detection and road segmentation
+- Real-time category-based and general obstacle detection for autonomous driving
+- MultiNet: real-time joint semantic reasoning for autonomous driving
+<br/>
+
+
+### Etc
+- Semantic instance segmentation with a discriminative loss function
 [[Pytorch](https://github.com/Wizaron/instance-segmentation-pytorch)]
+- Pseudo-lidar from visual depth estimation bridging the gap in 3d object detection for autonomous driving
 <br/>
 
 
