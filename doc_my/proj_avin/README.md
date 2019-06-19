@@ -1,6 +1,10 @@
 # References for AVIN project
 
 ### Lane detection
+*Survey*
+- https://github.com/amusi/awesome-lane-detection
+- https://paperswithcode.com/task/lane-detection/codeless
+
 *CNN*
 - An efficient encoder-decoder cnn architecture for reliable multilane detection in real time
 - Reliable multilane detection and classification by utilizing cnn as a regression network
@@ -15,6 +19,7 @@
 
 *LiDAR*
 - Hierarchical recurrent attention networks for structured online maps
+[[Tensorflow](https://github.com/shawnspace/HRAN)]
 
 *Uncategorized yet*
 - 3D Lanenet: end-to-end 3d multiple lane detection
