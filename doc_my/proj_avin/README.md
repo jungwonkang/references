@@ -107,7 +107,7 @@
 - Superdepth self-supervised, super-resolved monocular depth estimation
 
 *General obstacle detection*
-- Monocular semantic occupancy grid mapping with convolutional variational encoder-decoder networks
+- Monocular semantic occupancy grid mapping with convolutional variational encoder-decoder networks [[PyTorch](https://github.com/Chenyang-Lu/mono-semantic-occupancy)]
 - Building a winning self-driving car in six months
 <br/>
 
