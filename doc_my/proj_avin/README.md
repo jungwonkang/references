@@ -31,22 +31,33 @@
 - Towards end-to-end lane detection: an instance segmentation approach 
 [[Tensorflow1](https://github.com/MaybeShewill-CV/lanenet-lane-detection)]
 [[Tensorflow2](https://maybeshewill-cv.github.io/lanenet-lane-detection/)]
-[[Pytorch](https://github.com/harryhan618/LaneNet)]
+[[PyTorch](https://github.com/harryhan618/LaneNet)]
 - End-to-end lane detection through differentiable least-squares fitting
-[[Pytorch](https://github.com/wvangansbeke/LaneDetection_End2End)]
+[[PyTorch](https://github.com/wvangansbeke/LaneDetection_End2End)]
 - TuSimple dataset road lane instance segmentation with PyTorch, ROS, ENet, SegNet and Discriminative Loss
-[[Pytorch](https://github.com/jaeoh2/Road-Lane-Instance-Segmentation-PyTorch)]
+[[PyTorch](https://github.com/jaeoh2/Road-Lane-Instance-Segmentation-PyTorch)]
 - Spatial as deep_spatial cnn for traffic scene understanding
-[[Pytorch](https://github.com/harryhan618/SCNN_Pytorch)]
+[[PyTorch](https://github.com/harryhan618/SCNN_Pytorch)]
 <br/>
 
+
+### 2D Semantic segmentation survey
+- A review on deep learning techniques applied to semantic segmentation
+- Survey on semantic segmentation using deep learning techniques
+<br/>
 
 
 ### Real-time semantic segmentation
-- ss
-- ss
+- ENet: a deep neural architecture for real-time semantic segmentation
+- [ICNet for real-time semantic segmentation on high-resolution images](https://hszhao.github.io/projects/icnet/) 
+[[Caffe](https://github.com/hszhao/ICNet)]
+- ERFNet: Efficient Residual Factorized ConvNet forReal-time Semantic Segmentation
+[[PyTorch](https://github.com/hagerrady13/ERFNet-PyTorch)]
+- [RTSeg: real-time semantic segmentation comparative study](https://github.com/MSiam/TFSegmentation)
+  - [A comparative study of real-time semantic segmentation for autonomous driving](http://openaccess.thecvf.com/content_cvpr_2018_workshops/papers/w12/Siam_A_Comparative_Study_CVPR_2018_paper.pdf)
+- ESPNet: efficient spatial pyramid of dilated convolutions for semantic segmentation
+- Guided upsampling network for real-time semantic segmentation
 <br/>
-
 
 
 ### Etc with code
@@ -73,5 +84,6 @@
 *General obstacle detection*
 - Monocular semantic occupancy grid mapping with convolutional variational encoder-decoder networks
 - Building a winning self-driving car in six months
+<br/>
 
 
