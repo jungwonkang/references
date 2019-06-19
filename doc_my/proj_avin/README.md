@@ -23,6 +23,7 @@
 - Robust road marking detection and recognition using density-based grouping and machine learning techniques
 - Spatial as deep_spatial cnn for traffic scene understanding
 - FastDraw: addressing the long tail of lane detection by adapting a sequential prediction network
+<br/>
 
 
 
@@ -37,7 +38,6 @@
 [[Pytorch](https://github.com/jaeoh2/Road-Lane-Instance-Segmentation-PyTorch)]
 - Spatial as deep_spatial cnn for traffic scene understanding
 [[Pytorch](https://github.com/harryhan618/SCNN_Pytorch)]
-- 
 <br/>
 
 
