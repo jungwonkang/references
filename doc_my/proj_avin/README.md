@@ -11,18 +11,22 @@
 
 
 
-#### Selected papers (June 14 2019)
+### Selected papers (June 14 2019)
+*Lane detection*
 - Towards End-to-End Lane Detection: an Instance Segmentation Approach
 - ENet: A deep neural network architecture for real-time semantic segmentation
 
+*3D bounding box detection*
 - PointPillars: Fast encoders for object detection from point clouds
 
+*Depth estimation*
 - Real-Time Joint Semantic Segmentation and Depth Estimation Using Asymmetric Annotations
 - Real-time monocular depth estimation using synthetic data with domain adaptation via image style transfer
 - FastDepth: Fast Monocular Depth Estimation on Embedded Systems
 - Self-Supervised Learning for Single View Depth and Surface Normal Estimation
 - SuperDepth Self-Supervised, Super-Resolved Monocular Depth Estimation
 
+*General obstacle detection*
 - Monocular Semantic Occupancy Grid Mapping with Convolutional Variational Encoder-Decoder Networks
 - Building a Winning Self-Driving Car in Six Months
 
