@@ -88,6 +88,10 @@
 - Semantic instance segmentation with a discriminative loss function
 [[Pytorch](https://github.com/Wizaron/instance-segmentation-pytorch)]
 - Pseudo-lidar from visual depth estimation bridging the gap in 3d object detection for autonomous driving
+- [ROS package for the perception (sensor processing, detection, tracking and evaluation) of the KITTI vision benchmark suite](https://github.com/appinho/SARosPerceptionKitti)
+- [A list of references on lidar point cloud processing for autonomous driving](https://github.com/beedotkiran/Lidar_For_AD_references)
+- [SECOND for KITTI/NuScenes object detection](https://github.com/traveller59/second.pytorch)
+- [3D object detection for autonomous driving using deep learning](https://github.com/fregu856/3DOD_thesis)
 <br/>
 
 
@@ -97,7 +101,7 @@
 - ENet: a deep neural network architecture for real-time semantic segmentation
 
 *3D bounding box detection*
-- Pointpillars: fast encoders for object detection from point clouds
+- Pointpillars: fast encoders for object detection from point clouds [[PyTorch](https://github.com/nutonomy/second.pytorch)]
 
 *Depth estimation*
 - Real-time joint semantic segmentation and depth estimation using asymmetric annotations
