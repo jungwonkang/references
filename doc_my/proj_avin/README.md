@@ -1,8 +1,29 @@
 # References for AVIN project
 
 ### Lane detection
-- ss
-- ss
+*CNN*
+- An efficient encoder-decoder cnn architecture for reliable multilane detection in real time
+- Reliable multilane detection and classification by utilizing cnn as a regression network
+- Towards end-to-end lane detection_an instance segmentation approach
+- End-to-end lane detection through differentiable least-squares fitting
+- VPGnet: vanishing point guided network for lane and road marking detection and recognition
+
+*RNN*
+- Deep neural network for structural prediction and lane detection in traffic scene
+- Lanenet: real-time lane detection networks for autonomous driving
+- Robust lane detection from continuous driving scenes using deep neural networks
+
+*LiDAR*
+- Hierarchical recurrent attention networks for structured online maps
+
+*Uncategorized yet*
+- 3D Lanenet: end-to-end 3d multiple lane detection
+- Deep semantic lane segmentation for mapless driving
+- Find your own way_weakly-supervised segmentation of path proposals for urban autonomy
+- Robust road marking detection and recognition using density-based grouping and machine learning techniques
+- Spatial as deep_spatial cnn for traffic scene understanding
+- FastDraw: addressing the long tail of lane detection by adapting a sequential prediction network
+
 
 
 ### Lane detection with code
