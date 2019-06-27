@@ -1,4 +1,4 @@
-# References for AVIN project
+# References
 
 ### Lane detection
 *Survey*

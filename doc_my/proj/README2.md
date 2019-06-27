@@ -1,4 +1,4 @@
-# References 2 for AVIN project
+# References 2
 
 ### From ICRA 2019
 *Benchmark*
@@ -57,6 +57,14 @@
 *SLAM framework*
 - Visual-Inertial Navigation: A Concise Review
 - IN2LAMA: INertial Lidar Localisation and MApping
+<br/>
+
+*UWB*
+- ATLAS FaST: Fast and Simple Scheduled TDOA for Reliable Ultra-Wideband Localization
+- A Kalman Filter-Based Algorithm for Simultaneous Time Synchronization and Localization in UWB Networks
+- Estimating the Localizability in Tunnel-Like Environments Using LiDAR and UWB
+- Integrated UWB-Vision Approach for Autonomous Docking of UAVs in GPS-Denied Environments
+- UWB/LiDAR Fusion for Cooperative Range-Only SLAM
 <br/>
 
 *Etc*
