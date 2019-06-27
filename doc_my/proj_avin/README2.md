@@ -65,7 +65,7 @@
 <br/>
 
 
-### From CVPR-W 2019 [all](http://openaccess.thecvf.com/menu.py) [CVPR-W 2019](http://openaccess.thecvf.com/CVPR2019_workshops/CVPR2019_Autonomous_Driving.py)
+### From CVPR-W 2019 [[all](http://openaccess.thecvf.com/menu.py)] [[CVPR-W 2019](http://openaccess.thecvf.com/CVPR2019_workshops/CVPR2019_Autonomous_Driving.py)]
 - Attentional PointNet for 3D-Object Detection in Point Clouds
 - Complexer YOLO Real-Time 3D Object Detection and Tracking on Semantic Point Clouds
 - DSCnet Replicating Lidar Point Clouds with Deep Sensor Cloning
