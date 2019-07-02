@@ -6,6 +6,7 @@
 - https://paperswithcode.com/task/lane-detection/codeless
 
 *CNN*
+- 3D Lanenet: end-to-end 3d multiple lane detection
 - An efficient encoder-decoder cnn architecture for reliable multilane detection in real time
 - Reliable multilane detection and classification by utilizing cnn as a regression network
 - Towards end-to-end lane detection_an instance segmentation approach
@@ -22,7 +23,6 @@
 [[Tensorflow](https://github.com/shawnspace/HRAN)]
 
 *Uncategorized yet*
-- 3D Lanenet: end-to-end 3d multiple lane detection
 - Deep semantic lane segmentation for mapless driving
 - Find your own way_weakly-supervised segmentation of path proposals for urban autonomy
 - Robust road marking detection and recognition using density-based grouping and machine learning techniques
