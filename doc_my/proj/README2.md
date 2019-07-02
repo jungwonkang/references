@@ -1,7 +1,5 @@
 # References 2
 
-Today
-
 ### From ICRA 2019
 *Benchmark*
 - SLAMBench 3.0: Systematic Automated Reproducible Evaluation of SLAM Systems for Robot Vision Challenges and Scene Understanding
