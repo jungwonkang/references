@@ -1,6 +1,10 @@
 # List of must-know-and-do
 
 
+Started to write on July 3 2019
+<br/>
+
+
 ### Hardware
 - Arduino
 - Raspberry
