@@ -9,6 +9,14 @@ Started to write on July 14 2019
 <br/>
 
 
+### Dataset
+- [Awesome SLAM datasets](https://sites.google.com/view/awesome-slam-datasets/)
+- [The UZH-FPV drone racing dataset](http://rpg.ifi.uzh.ch/uzh-fpv.html) [[paper](http://rpg.ifi.uzh.ch/docs/ICRA19_Delmerico.pdf)]
+- [UWB Localization Data Set](https://github.com/ewine-project/UWB-localization/tree/master/data/localization)
+- [Structural Inspection Planner](https://github.com/ethz-asl/StructuralInspectionPlanner/wiki/Example-Results)
+<br/>
+
+
 ### From ICRA 2019
 *UWB*
 - ATLAS FaST: Fast and Simple Scheduled TDOA for Reliable Ultra-Wideband Localization
@@ -17,7 +25,5 @@ Started to write on July 14 2019
 - Integrated UWB-Vision Approach for Autonomous Docking of UAVs in GPS-Denied Environments
 - UWB/LiDAR Fusion for Cooperative Range-Only SLAM
 <br/>
-
-
 
 
