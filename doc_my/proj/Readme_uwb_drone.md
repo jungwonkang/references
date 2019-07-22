@@ -4,8 +4,13 @@ Started to write on July 14 2019
 <br/>
 
 
-###
+### UWB localization
 - Accurate 3D Localization for MAV Swarms by UWB and IMU Fusion [[git](https://github.com/lijx10/uwb-localization)]
+<br/>
+
+
+### UWB calibration
+- [Sensor Fusion and Calibration of Inertial Sensors, Vision, Ultra-Wideband and GPS](https://www.xsens.com/wp-content/uploads/2014/pdf/Hol2011%20-%20Dissertation.pdf)
 <br/>
 
 
