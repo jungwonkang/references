@@ -50,6 +50,12 @@ Started to write on July 1 2019
 <br/>
 
 
+### Rail detection
+- Efficient rail area detection using convolutional neural network
+- [Detecting rails in imagesfrom a train-mounted thermal camera using a convolutional neural network](https://liu.diva-portal.org/smash/get/diva2:1111486/FULLTEXT01.pdf)
+<br/>
+
+
 ### 2D bounding box detection
 - https://handong1587.github.io/deep_learning/2015/10/09/object-detection.html
 - [Recent advances in object detection in the age of deep convolutional neural networks](https://hal.archives-ouvertes.fr/hal-01869779/document)
