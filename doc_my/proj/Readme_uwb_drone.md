@@ -14,6 +14,16 @@ Started to write on July 14 2019
 <br/>
 
 
+### DOP (Dilution of Precision)
+- GDOP index in UWB indoor location system experiment
+- Horizontal dilution of precision-based ultra-wideband positioning technique for indoor environments
+- 3D DOPs for Positioning Applications Using Range Measurements
+- UWB Localization Systemfor Indoor Applications: Concept, Realization and Analysis
+- Indoor Aerial Vehicle Navigation using Ultra Wideband Active Two-Way Ranging
+- [Anchor selection for UWB indoor positioning](https://onlinelibrary.wiley.com/doi/10.1002/ett.3598)
+<br/>
+
+
 ### Dataset
 - [Awesome SLAM datasets](https://sites.google.com/view/awesome-slam-datasets/)
 - [The UZH-FPV drone racing dataset](http://rpg.ifi.uzh.ch/uzh-fpv.html) [[paper](http://rpg.ifi.uzh.ch/docs/ICRA19_Delmerico.pdf)]
