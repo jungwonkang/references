@@ -16,6 +16,11 @@ Started to write on July 17 2019
 <br/>
 
 
+### Etc
+- Comparison of various SLAM systems for mobile robot in an indoor environment
+<br/>
+
+
 ### From IRAP-KAIST
 - Complex Urban Dataset with Multi-level Sensors from Highly Diverse Urban Environments (ijrr 2019)
 - Complex Urban LiDAR Data Set (icra 2018)
