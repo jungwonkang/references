@@ -6,6 +6,10 @@ Started to write on July 14 2019
 
 ### UWB trilateration
 - A Novel Robust Trilateration Method Applied to Ultra-Wide Bandwidth Location Systems
+- Indoor Robot Positioning using anEnhanced Trilateration Algorithm
+- Ultra-wideband-based multilateration technique for indoor localisation
+- Self-Weighted Multilateration for Indoor Positioning Systems
+<br/>
 
 
 ### UWB localization
@@ -15,7 +19,7 @@ Started to write on July 14 2019
 
 
 ### UWB localization (graph)
-- Graph-optimization-based ZUPT_UWB fusion algorithm
+- Graph-optimization-based ZUPT/UWB fusion algorithm
 - [Graph Optimization Approach to Localization with Range Measurements](https://arxiv.org/pdf/1802.10276.pdf)
 - Comparative analysis of robust extended Kalman filter and incremental smoothing for UWB/PDR fusion positioning in NLOS environments
 <br/>
