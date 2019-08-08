@@ -29,6 +29,17 @@ Started to write on July 17 2019
 <br/>
 
 
-
-
+### Major Methods
+#### Vision
+- PTAM, DTAM
+- LSD
+- ORB
+- DSO
+- SVO
+- VINS-Mono
+- RTAB-MAP
+- Maplab
+#### LiDAR
+- Cartographer
+- LOAM, V-LOAM
 
