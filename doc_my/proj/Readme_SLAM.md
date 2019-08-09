@@ -19,6 +19,8 @@ Started to write on July 17 2019
 
 ### Etc
 - Comparison of various SLAM systems for mobile robot in an indoor environment
+- A Tutorial on Quantitative Trajectory Evaluation for Visual(-Inertial) Odometry
+  - https://github.com/uzh-rpg/rpg_trajectory_evaluation
 <br/>
 
 
