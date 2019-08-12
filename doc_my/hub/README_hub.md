@@ -22,5 +22,6 @@ Started to write on July 26 2019
 - [ROS Qt Creator Plug-in](https://ros-qtc-plugin.readthedocs.io/en/latest/)
 - [ROS-Industrial](https://rosindustrial.org/)
   - http://wiki.ros.org/Industrial/Tutorials
+  - https://github.com/ros-industrial
 <br/>
 
