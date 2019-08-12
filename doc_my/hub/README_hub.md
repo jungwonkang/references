@@ -17,3 +17,10 @@ Started to write on July 26 2019
 - [STM32CubeIDE를 이용한 STM32F4 자작드론 개발하기](https://www.youtube.com/playlist?list=PLUaCOzp6U-RryKTJDDzYU3xHhMf_wgeeh)
 <br/>
 
+
+### ROS
+- [ROS Qt Creator Plug-in](https://ros-qtc-plugin.readthedocs.io/en/latest/)
+- [ROS-Industrial](https://rosindustrial.org/)
+  - http://wiki.ros.org/Industrial/Tutorials
+<br/>
+
