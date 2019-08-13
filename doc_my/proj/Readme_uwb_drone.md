@@ -55,6 +55,11 @@ Started to write on July 14 2019
 <br/>
 
 
+### Graph (etc)
+- Eliminating Conditionally Independent Sets in Factor Graphs:A Unifying Perspective based on Smart Factors (describing range factors)
+<br/>
+
+
 ### Graph (keyword: combination/fusion of multiple factor graphs)
 - Multiple Relative Pose Graphs for Robust Cooperative Mapping
 - Efficient Factor Graph Fusion for Multi-Robot Mapping and Beyond
