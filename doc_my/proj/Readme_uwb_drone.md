@@ -56,6 +56,7 @@ Started to write on July 14 2019
 
 
 ### Graph (etc)
+- [GTSAM](https://gtsam.org/)
 - Eliminating Conditionally Independent Sets in Factor Graphs:A Unifying Perspective based on Smart Factors (describing range factors)
 <br/>
 
