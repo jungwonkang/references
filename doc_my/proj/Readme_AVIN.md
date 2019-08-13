@@ -61,6 +61,7 @@ Started to write on July 1 2019
 - [Recent advances in object detection in the age of deep convolutional neural networks](https://hal.archives-ouvertes.fr/hal-01869779/document)
 - [A paper list of object detection using deep learning](https://pythonawesome.com/a-paper-list-of-object-detection-using-deep-learning/)
 - [PVANet: lightweight deep neural networks for real-time object detection](https://youtu.be/TYDGTnxUGHQ)
+- [DisNet: A novel method for distance estimation from monocular camera](https://project.inria.fr/ppniv18/files/2018/10/presentationHaseeb.pdf)
 <br/>
 
 
