@@ -32,8 +32,8 @@ Started to write on July 1 2019
 - Robust road marking detection and recognition using density-based grouping and machine learning techniques
 - Spatial as deep_spatial cnn for traffic scene understanding
 - FastDraw: addressing the long tail of lane detection by adapting a sequential prediction network
+- Deep multi-sensor lane detection
 <br/>
-
 
 
 ### Lane detection with code
