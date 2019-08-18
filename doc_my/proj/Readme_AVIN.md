@@ -109,6 +109,7 @@ Started to write on July 1 2019
 - [A list of references on lidar point cloud processing for autonomous driving](https://github.com/beedotkiran/Lidar_For_AD_references)
 - [SECOND for KITTI/NuScenes object detection](https://github.com/traveller59/second.pytorch)
 - [3D object detection for autonomous driving using deep learning](https://github.com/fregu856/3DOD_thesis)
+- Multimodal unsupervised image-to-image translation
 <br/>
 
 
@@ -191,14 +192,6 @@ Started to write on July 1 2019
 *SLAM framework*
 - Visual-Inertial Navigation: A Concise Review
 - IN2LAMA: INertial Lidar Localisation and MApping
-<br/>
-
-*UWB*
-- ATLAS FaST: Fast and Simple Scheduled TDOA for Reliable Ultra-Wideband Localization
-- A Kalman Filter-Based Algorithm for Simultaneous Time Synchronization and Localization in UWB Networks
-- Estimating the Localizability in Tunnel-Like Environments Using LiDAR and UWB
-- Integrated UWB-Vision Approach for Autonomous Docking of UAVs in GPS-Denied Environments
-- UWB/LiDAR Fusion for Cooperative Range-Only SLAM
 <br/>
 
 *Etc*
