@@ -56,6 +56,16 @@ Started to write on July 1 2019
 <br/>
 
 
+### Object detection
+- [Monocular 3D Object Detection with Pseudo-LiDAR Point Cloud](https://www.profillic.com/paper/arxiv:1903.09847?fbclid=IwAR13HGHYG1mZaqW3Tqxgc9L2qbaa4f2cSjaYBSTZfLDc5x5k51qNUWplNfA)
+<br/>
+
+
+### Semantic segmentation
+- [Gated-SCNN: Gated Shape CNNs for Semantic Segmentation](https://www.profillic.com/paper/arxiv:1907.05740?fbclid=IwAR0P6pPt3ApCkR4AmWgs7__TFcuiImBKRJixU8BlE_HzldydVP-kgJFkLbU)
+<br/>
+
+
 ### 2D bounding box detection
 - https://handong1587.github.io/deep_learning/2015/10/09/object-detection.html
 - [Recent advances in object detection in the age of deep convolutional neural networks](https://hal.archives-ouvertes.fr/hal-01869779/document)
