@@ -112,6 +112,7 @@ Started to write on July 1 2019
 
 
 ### Etc
+- Road scene understanding by occupancy grid learningfrom sparse radar clusters using semantic segmentation
 - Semantic instance segmentation with a discriminative loss function
 [[Pytorch](https://github.com/Wizaron/instance-segmentation-pytorch)]
 - Pseudo-lidar from visual depth estimation bridging the gap in 3d object detection for autonomous driving
