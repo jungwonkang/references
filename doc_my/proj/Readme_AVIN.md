@@ -121,6 +121,8 @@ Started to write on July 1 2019
 - [SECOND for KITTI/NuScenes object detection](https://github.com/traveller59/second.pytorch)
 - [3D object detection for autonomous driving using deep learning](https://github.com/fregu856/3DOD_thesis)
 - Multimodal unsupervised image-to-image translation
+- [Distant vehicle detection using radar and vision](https://arxiv.org/abs/1901.10951)
+- [A dataset for lane instance segmentation in urban environments](http://openaccess.thecvf.com/content_ECCV_2018/html/Brook_Roberts_A_Dataset_for_ECCV_2018_paper.html)
 <br/>
 
 
