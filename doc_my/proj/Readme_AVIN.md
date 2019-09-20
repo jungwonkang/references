@@ -123,6 +123,7 @@ Started to write on July 1 2019
 - Multimodal unsupervised image-to-image translation
 - [Distant vehicle detection using radar and vision](https://arxiv.org/abs/1901.10951)
 - [A dataset for lane instance segmentation in urban environments](http://openaccess.thecvf.com/content_ECCV_2018/html/Brook_Roberts_A_Dataset_for_ECCV_2018_paper.html)
+- Off-road drivable area extraction using 3d LiDAR data
 <br/>
 
 
