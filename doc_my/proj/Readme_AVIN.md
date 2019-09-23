@@ -145,6 +145,7 @@ Started to write on July 1 2019
 *General obstacle detection*
 - Monocular semantic occupancy grid mapping with convolutional variational encoder-decoder networks [[PyTorch](https://github.com/Chenyang-Lu/mono-semantic-occupancy)]
 - Building a winning self-driving car in six months
+- Object Detection and Classification in Occupancy Grid Maps using Deep Convolutional Networks
 <br/>
 
 
@@ -240,7 +241,7 @@ Started to write on July 1 2019
 
 
 ### Updated on Sept 22 2019
-*Path*
+*Path1*
 - Convolutional Recurrent Network for Road Boundary Extraction
 - Deep Learning Driven Visual Path Prediction froma Single Image
 - Deep Semantic Lane Segmentation for Mapless Driving
@@ -249,7 +250,13 @@ Started to write on July 1 2019
 - Predicting Ego-Vehicle Paths from Environmental Observations with a Deep Neural Network
 <br/>
 
-*attention1*
+*Path2*
+- Semantic Grid-Based Road Model Estimation for Autonomous Driving
+- Generation of Probabilistic Graphs for Path Planningfrom Stochastic Map
+- Lanelets: Efficient map representation for autonomous driving
+<br/>
+
+*Attention1*
 - Attention U-Net:Learning Where to Look for the Pancreas
 - Attention to Scale: Scale-aware Semantic Image Segmentation
 - Cross Attention Network for Semantic Segmentation
@@ -262,7 +269,7 @@ Started to write on July 1 2019
 - Building Extraction from High-Resolution Aerial Imagery Using a Generative Adversarial Network with Spatial and Channel Attention Mechanisms
 <br/>
 
-*attention2*
+*Attention2*
 - https://paperswithcode.com/sota/semantic-segmentation-on-cityscapes
 - Knowledge Distillation with Category-Aware Attention and Discriminant Logit Losses
 - Attribute-Aware Attention Model for Fine-grained Representation Learning
