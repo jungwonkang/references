@@ -239,8 +239,61 @@ Started to write on July 1 2019
 <br/>
 
 
-
+### Updated on Sept 22 2019
+*Path*
+- Convolutional Recurrent Network for Road Boundary Extraction
+- Deep Learning Driven Visual Path Prediction froma Single Image
+- Deep Semantic Lane Segmentation for Mapless Driving
+- Find Your Own Way_Weakly-Supervised Segmentation of Path Proposals for Urban Autonomy
+- LIDAR-based Driving Path Generation Using Fully Convolutional Neural Networks
+- Predicting Ego-Vehicle Paths from Environmental Observations with a Deep Neural Network
 <br/>
+
+*attention1*
+- Attention U-Net:Learning Where to Look for the Pancreas
+- Attention to Scale: Scale-aware Semantic Image Segmentation
+- Cross Attention Network for Semantic Segmentation
+- Pyramid attention network for semantic segmentation
+- Dual Attention Network for Scene Segmentation (cvpr 2019)
+- Learning Lightweight Lane Detection CNNs by Self Attention Distillation
+- PSANet: Point-wise Spatial Attention Network for Scene Parsing
+- Using the wide range attention U Net for road segmentation
+- Towards Accurate High Resolution SatelliteImage Semantic Segmentation
+- Building Extraction from High-Resolution Aerial Imagery Using a Generative Adversarial Network with Spatial and Channel Attention Mechanisms
+<br/>
+
+*attention2*
+- https://paperswithcode.com/sota/semantic-segmentation-on-cityscapes
+- Knowledge Distillation with Category-Aware Attention and Discriminant Logit Losses
+- Attribute-Aware Attention Model for Fine-grained Representation Learning
+- Localizing by Describing: Attribute-Guided Attention Localization for Fine-Grained Recognition
+- LEDNet: A Lightweight Encoder-Decoder Network for Real-Time Semantic Segmentation
+- DFANet: Deep Feature Aggregation for Real-Time Semantic Segmentation
+- Connection Sensitive Attention U-NET for Accurate Retinal Vessel Segmentation
+- [End-to-End Multi-Task Learning with Attention](https://github.com/lorenmt/mtan)
+<br/>
+
+*cascade/multi stage semantic segmentation/multi task multi stage*
+- A Multi-Stage Multi-Task Neural Network forAerial Scene Interpretation and Geolocalization
+- Roadmap Generation using a Multi-Stage Ensemble of Deep Neural Networks with Smoothing-Based Optimization
+- Multi-stage Object Detection with Group Recursive Learning
+- Hierarchical graph-based segmentation for extracting road networks from high-resolution satellite images
+- An application of cascaded 3D fully convolutional networks for medical image segmentation
+  - Hierarchical 3D fully convolutional networks for multi-organ segmentation
+- Hybrid Task Cascade for Instance Segmentation
+- Multi-stage Multi-recursive-input Fully Convolutional Networks for Neuronal Boundary Detection
+- A multi-task U-net for segmentation with lazy labels
+
+
+
+
+
+
+
+
+
+
+
 
 
 
