@@ -50,9 +50,22 @@ Started to write on July 1 2019
 <br/>
 
 
-### Rail detection
+### Rail detection (deep)
+* Deep *
 - Efficient rail area detection using convolutional neural network
 - [Detecting rails in imagesfrom a train-mounted thermal camera using a convolutional neural network](https://liu.diva-portal.org/smash/get/diva2:1111486/FULLTEXT01.pdf)
+<br/>
+
+* Non-Deep *
+- Multi-railway track and turnout region recognition using mobile laser scanning data
+- Obstacle-free range determination for rail track maintenance vehicles
+- Automatic extraction of railroad centerlines from mobile laser scanning data
+- [turnout] A vision based condition monitoring approach for rail switch and level crossing using hierarchical svm in railways
+- [turnout] Detection of rail switch passages through image processing on railway line and use of condition-monitoring approach
+- [turnout] Efficient railway tracks detection and turnouts recognition method using hog features
+- [turnout] Rail and turnout detection using gradient information and template matching
+- Vision based rail track and switch recognition for self-localization of trains in a rail network
+- A Vision-Based Approach for Rail Extraction and its Application in a Camera Pan-Tilt Control System
 <br/>
 
 
