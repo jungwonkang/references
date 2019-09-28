@@ -56,12 +56,12 @@ Started to write on July 1 2019
 
 
 ### Rail detection
-* Deep *
+*Deep*
 - Efficient rail area detection using convolutional neural network
 - [Detecting rails in imagesfrom a train-mounted thermal camera using a convolutional neural network](https://liu.diva-portal.org/smash/get/diva2:1111486/FULLTEXT01.pdf)
 <br/>
 
-* Non-Deep *
+*Non-Deep*
 - Multi-railway track and turnout region recognition using mobile laser scanning data
 - Obstacle-free range determination for rail track maintenance vehicles
 - Automatic extraction of railroad centerlines from mobile laser scanning data
@@ -75,7 +75,7 @@ Started to write on July 1 2019
 
 
 ### Object detection
-* 2D bounding box detection *
+*2D bounding box detection*
 - https://handong1587.github.io/deep_learning/2015/10/09/object-detection.html
 - [Recent advances in object detection in the age of deep convolutional neural networks](https://hal.archives-ouvertes.fr/hal-01869779/document)
 - [A paper list of object detection using deep learning](https://pythonawesome.com/a-paper-list-of-object-detection-using-deep-learning/)
@@ -86,7 +86,7 @@ Started to write on July 1 2019
 *3D bounding box detection*
 - Pointpillars: fast encoders for object detection from point clouds [[PyTorch](https://github.com/nutonomy/second.pytorch)]
 
-* Etc *
+*Etc*
 - [Monocular 3D Object Detection with Pseudo-LiDAR Point Cloud](https://www.profillic.com/paper/arxiv:1903.09847?fbclid=IwAR13HGHYG1mZaqW3Tqxgc9L2qbaa4f2cSjaYBSTZfLDc5x5k51qNUWplNfA)
 <br/>
 
