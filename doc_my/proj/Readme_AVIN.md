@@ -6,6 +6,7 @@ Started to write on July 1 2019
 ### Dataset
 - [RailSem19: a dataset for semantic rail scene understanding](http://openaccess.thecvf.com/content_CVPRW_2019/papers/Autonomous%20Driving/Zendel_RailSem19_A_Dataset_for_Semantic_Rail_Scene_Understanding_CVPRW_2019_paper.pdf)
   - [WildDash benchmark](http://www.wilddash.cc/)
+- [A dataset for lane instance segmentation in urban environments](http://openaccess.thecvf.com/content_ECCV_2018/html/Brook_Roberts_A_Dataset_for_ECCV_2018_paper.html)
 <br/>
 
 
@@ -57,7 +58,6 @@ Started to write on July 1 2019
 
 *Uncategorized yet*
 - Deep semantic lane segmentation for mapless driving
-- Find your own way_weakly-supervised segmentation of path proposals for urban autonomy
 - Robust road marking detection and recognition using density-based grouping and machine learning techniques
 <br/>
 
@@ -125,6 +125,9 @@ Started to write on July 1 2019
 
 *3D bounding box detection*
 - Pointpillars: fast encoders for object detection from point clouds [[PyTorch](https://github.com/nutonomy/second.pytorch)]
+- [SECOND for KITTI/NuScenes object detection](https://github.com/traveller59/second.pytorch)
+- [3D object detection for autonomous driving using deep learning](https://github.com/fregu856/3DOD_thesis)
+<br/>
 
 *Etc*
 - [Monocular 3D Object Detection with Pseudo-LiDAR Point Cloud](https://www.profillic.com/paper/arxiv:1903.09847?fbclid=IwAR13HGHYG1mZaqW3Tqxgc9L2qbaa4f2cSjaYBSTZfLDc5x5k51qNUWplNfA)
@@ -149,12 +152,10 @@ Started to write on July 1 2019
 - Pseudo-lidar from visual depth estimation bridging the gap in 3d object detection for autonomous driving
 - [ROS package for the perception (sensor processing, detection, tracking and evaluation) of the KITTI vision benchmark suite](https://github.com/appinho/SARosPerceptionKitti)
 - [A list of references on lidar point cloud processing for autonomous driving](https://github.com/beedotkiran/Lidar_For_AD_references)
-- [SECOND for KITTI/NuScenes object detection](https://github.com/traveller59/second.pytorch)
-- [3D object detection for autonomous driving using deep learning](https://github.com/fregu856/3DOD_thesis)
 - Multimodal unsupervised image-to-image translation
 - [Distant vehicle detection using radar and vision](https://arxiv.org/abs/1901.10951)
-- [A dataset for lane instance segmentation in urban environments](http://openaccess.thecvf.com/content_ECCV_2018/html/Brook_Roberts_A_Dataset_for_ECCV_2018_paper.html)
 - Off-road drivable area extraction using 3d LiDAR data
+- Convolutional Recurrent Network for Road Boundary Extraction
 <br/>
 
 
