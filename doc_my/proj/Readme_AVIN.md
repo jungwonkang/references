@@ -8,6 +8,7 @@ Started to write on July 1 2019
 *Survey*
 - https://github.com/amusi/awesome-lane-detection
 - https://paperswithcode.com/task/lane-detection/codeless
+<br/>
 
 *CNN*
 - 3D Lanenet: end-to-end 3d multiple lane detection
@@ -16,15 +17,20 @@ Started to write on July 1 2019
 - Towards end-to-end lane detection_an instance segmentation approach
 - End-to-end lane detection through differentiable least-squares fitting
 - VPGnet: vanishing point guided network for lane and road marking detection and recognition
+<br/>
 
 *RNN*
 - Deep neural network for structural prediction and lane detection in traffic scene
 - Lanenet: real-time lane detection networks for autonomous driving
 - Robust lane detection from continuous driving scenes using deep neural networks
+<br/>
 
 *LiDAR*
 - Hierarchical recurrent attention networks for structured online maps
 [[Tensorflow](https://github.com/shawnspace/HRAN)]
+- Real-Time Road Lane Detection in Urban Areas Using LiDAR Data
+<br/>
+
 
 *Uncategorized yet*
 - Deep semantic lane segmentation for mapless driving
@@ -69,17 +75,19 @@ Started to write on July 1 2019
 
 
 ### Object detection
-
-* Etc *
-- [Monocular 3D Object Detection with Pseudo-LiDAR Point Cloud](https://www.profillic.com/paper/arxiv:1903.09847?fbclid=IwAR13HGHYG1mZaqW3Tqxgc9L2qbaa4f2cSjaYBSTZfLDc5x5k51qNUWplNfA)
-<br/>
-
 * 2D bounding box detection *
 - https://handong1587.github.io/deep_learning/2015/10/09/object-detection.html
 - [Recent advances in object detection in the age of deep convolutional neural networks](https://hal.archives-ouvertes.fr/hal-01869779/document)
 - [A paper list of object detection using deep learning](https://pythonawesome.com/a-paper-list-of-object-detection-using-deep-learning/)
 - [PVANet: lightweight deep neural networks for real-time object detection](https://youtu.be/TYDGTnxUGHQ)
 - [DisNet: A novel method for distance estimation from monocular camera](https://project.inria.fr/ppniv18/files/2018/10/presentationHaseeb.pdf)
+<br/>
+
+*3D bounding box detection*
+- Pointpillars: fast encoders for object detection from point clouds [[PyTorch](https://github.com/nutonomy/second.pytorch)]
+
+* Etc *
+- [Monocular 3D Object Detection with Pseudo-LiDAR Point Cloud](https://www.profillic.com/paper/arxiv:1903.09847?fbclid=IwAR13HGHYG1mZaqW3Tqxgc9L2qbaa4f2cSjaYBSTZfLDc5x5k51qNUWplNfA)
 <br/>
 
 
@@ -150,19 +158,13 @@ Started to write on July 1 2019
 
 
 ### Selected papers (June 14 2019)
-*Lane detection*
-- Towards end-to-end lane detection: an instance segmentation approach
-- ENet: a deep neural network architecture for real-time semantic segmentation
-
-*3D bounding box detection*
-- Pointpillars: fast encoders for object detection from point clouds [[PyTorch](https://github.com/nutonomy/second.pytorch)]
-
 *Depth estimation*
 - Real-time joint semantic segmentation and depth estimation using asymmetric annotations
 - Real-time monocular depth estimation using synthetic data with domain adaptation via image style transfer
 - Fastdepth: fast monocular depth estimation on embedded systems
 - Self-supervised learning for single view depth and surface normal estimation
 - Superdepth self-supervised, super-resolved monocular depth estimation
+<br/>
 
 *General obstacle detection*
 - Monocular semantic occupancy grid mapping with convolutional variational encoder-decoder networks [[PyTorch](https://github.com/Chenyang-Lu/mono-semantic-occupancy)]
