@@ -35,8 +35,7 @@ Started to write on July 1 2019
 - Deep multi-sensor lane detection
 <br/>
 
-
-### Lane detection with code
+*Lane detection with code*
 - Towards end-to-end lane detection: an instance segmentation approach 
 [[Tensorflow1](https://github.com/MaybeShewill-CV/lanenet-lane-detection)]
 [[Tensorflow2](https://maybeshewill-cv.github.io/lanenet-lane-detection/)]
@@ -50,7 +49,7 @@ Started to write on July 1 2019
 <br/>
 
 
-### Rail detection (deep)
+### Rail detection
 * Deep *
 - Efficient rail area detection using convolutional neural network
 - [Detecting rails in imagesfrom a train-mounted thermal camera using a convolutional neural network](https://liu.diva-portal.org/smash/get/diva2:1111486/FULLTEXT01.pdf)
@@ -70,11 +69,12 @@ Started to write on July 1 2019
 
 
 ### Object detection
+
+* Etc *
 - [Monocular 3D Object Detection with Pseudo-LiDAR Point Cloud](https://www.profillic.com/paper/arxiv:1903.09847?fbclid=IwAR13HGHYG1mZaqW3Tqxgc9L2qbaa4f2cSjaYBSTZfLDc5x5k51qNUWplNfA)
 <br/>
 
-
-### 2D bounding box detection
+* 2D bounding box detection *
 - https://handong1587.github.io/deep_learning/2015/10/09/object-detection.html
 - [Recent advances in object detection in the age of deep convolutional neural networks](https://hal.archives-ouvertes.fr/hal-01869779/document)
 - [A paper list of object detection using deep learning](https://pythonawesome.com/a-paper-list-of-object-detection-using-deep-learning/)
