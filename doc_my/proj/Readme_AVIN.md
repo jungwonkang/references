@@ -66,7 +66,7 @@ Started to write on July 1 2019
 ### Rail detection
 *Deep*
 - Efficient rail area detection using convolutional neural network
-- [Detecting rails in imagesfrom a train-mounted thermal camera using a convolutional neural network](https://liu.diva-portal.org/smash/get/diva2:1111486/FULLTEXT01.pdf)
+- [Detecting rails in images from a train-mounted thermal camera using a convolutional neural network](https://liu.diva-portal.org/smash/get/diva2:1111486/FULLTEXT01.pdf)
 <br/>
 
 *Non-Deep*
@@ -87,7 +87,7 @@ Started to write on July 1 2019
 - ENet: a deep neural architecture for real-time semantic segmentation
 - [ICNet for real-time semantic segmentation on high-resolution images](https://hszhao.github.io/projects/icnet/) 
 [[Caffe](https://github.com/hszhao/ICNet)]
-- ERFNet: Efficient Residual Factorized ConvNet forReal-time Semantic Segmentation
+- ERFNet: Efficient Residual Factorized ConvNet for Real-time Semantic Segmentation
 [[PyTorch](https://github.com/hagerrady13/ERFNet-PyTorch)]
 - [RTSeg: real-time semantic segmentation comparative study](https://github.com/MSiam/TFSegmentation)
   - [A comparative study of real-time semantic segmentation for autonomous driving](http://openaccess.thecvf.com/content_cvpr_2018_workshops/papers/w12/Siam_A_Comparative_Study_CVPR_2018_paper.pdf)
