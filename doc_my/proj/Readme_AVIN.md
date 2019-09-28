@@ -3,6 +3,11 @@
 Started to write on July 1 2019
 <br/>
 
+### Dataset
+- [RailSem19: a dataset for semantic rail scene understanding](http://openaccess.thecvf.com/content_CVPRW_2019/papers/Autonomous%20Driving/Zendel_RailSem19_A_Dataset_for_Semantic_Rail_Scene_Understanding_CVPRW_2019_paper.pdf)
+  - [WildDash benchmark](http://www.wilddash.cc/)
+<br/>
+
 
 ### Lane detection
 *Survey*
@@ -17,6 +22,8 @@ Started to write on July 1 2019
 - Towards end-to-end lane detection_an instance segmentation approach
 - End-to-end lane detection through differentiable least-squares fitting
 - VPGnet: vanishing point guided network for lane and road marking detection and recognition
+- FastDraw: addressing the long tail of lane detection by adapting a sequential prediction network
+- Spatial as deep_spatial cnn for traffic scene understanding
 <br/>
 
 *RNN*
@@ -31,13 +38,7 @@ Started to write on July 1 2019
 - Real-Time Road Lane Detection in Urban Areas Using LiDAR Data
 <br/>
 
-
-*Uncategorized yet*
-- Deep semantic lane segmentation for mapless driving
-- Find your own way_weakly-supervised segmentation of path proposals for urban autonomy
-- Robust road marking detection and recognition using density-based grouping and machine learning techniques
-- Spatial as deep_spatial cnn for traffic scene understanding
-- FastDraw: addressing the long tail of lane detection by adapting a sequential prediction network
+*Vision + LiDAR*
 - Deep multi-sensor lane detection
 <br/>
 
@@ -53,6 +54,13 @@ Started to write on July 1 2019
 - Spatial as deep_spatial cnn for traffic scene understanding
 [[PyTorch](https://github.com/harryhan618/SCNN_Pytorch)]
 <br/>
+
+*Uncategorized yet*
+- Deep semantic lane segmentation for mapless driving
+- Find your own way_weakly-supervised segmentation of path proposals for urban autonomy
+- Robust road marking detection and recognition using density-based grouping and machine learning techniques
+<br/>
+
 
 
 ### Rail detection
@@ -71,23 +79,6 @@ Started to write on July 1 2019
 - [turnout] Rail and turnout detection using gradient information and template matching
 - Vision based rail track and switch recognition for self-localization of trains in a rail network
 - A Vision-Based Approach for Rail Extraction and its Application in a Camera Pan-Tilt Control System
-<br/>
-
-
-### Object detection
-*2D bounding box detection*
-- https://handong1587.github.io/deep_learning/2015/10/09/object-detection.html
-- [Recent advances in object detection in the age of deep convolutional neural networks](https://hal.archives-ouvertes.fr/hal-01869779/document)
-- [A paper list of object detection using deep learning](https://pythonawesome.com/a-paper-list-of-object-detection-using-deep-learning/)
-- [PVANet: lightweight deep neural networks for real-time object detection](https://youtu.be/TYDGTnxUGHQ)
-- [DisNet: A novel method for distance estimation from monocular camera](https://project.inria.fr/ppniv18/files/2018/10/presentationHaseeb.pdf)
-<br/>
-
-*3D bounding box detection*
-- Pointpillars: fast encoders for object detection from point clouds [[PyTorch](https://github.com/nutonomy/second.pytorch)]
-
-*Etc*
-- [Monocular 3D Object Detection with Pseudo-LiDAR Point Cloud](https://www.profillic.com/paper/arxiv:1903.09847?fbclid=IwAR13HGHYG1mZaqW3Tqxgc9L2qbaa4f2cSjaYBSTZfLDc5x5k51qNUWplNfA)
 <br/>
 
 
@@ -123,6 +114,22 @@ Started to write on July 1 2019
 <br/>
 
 
+### Object detection
+*2D bounding box detection*
+- https://handong1587.github.io/deep_learning/2015/10/09/object-detection.html
+- [Recent advances in object detection in the age of deep convolutional neural networks](https://hal.archives-ouvertes.fr/hal-01869779/document)
+- [A paper list of object detection using deep learning](https://pythonawesome.com/a-paper-list-of-object-detection-using-deep-learning/)
+- [PVANet: lightweight deep neural networks for real-time object detection](https://youtu.be/TYDGTnxUGHQ)
+- [DisNet: A novel method for distance estimation from monocular camera](https://project.inria.fr/ppniv18/files/2018/10/presentationHaseeb.pdf)
+<br/>
+
+*3D bounding box detection*
+- Pointpillars: fast encoders for object detection from point clouds [[PyTorch](https://github.com/nutonomy/second.pytorch)]
+
+*Etc*
+- [Monocular 3D Object Detection with Pseudo-LiDAR Point Cloud](https://www.profillic.com/paper/arxiv:1903.09847?fbclid=IwAR13HGHYG1mZaqW3Tqxgc9L2qbaa4f2cSjaYBSTZfLDc5x5k51qNUWplNfA)
+<br/>
+
 
 ### General obstacle detection
 - Real-time category-based and general obstacle detection for autonomous driving 
@@ -132,12 +139,6 @@ Started to write on July 1 2019
 - StixelNet: a deep convolutional network forobstacle detection and road segmentation
 - Real-time category-based and general obstacle detection for autonomous driving
 - MultiNet: real-time joint semantic reasoning for autonomous driving
-<br/>
-
-
-### Dataset
-- [RailSem19: a dataset for semantic rail scene understanding](http://openaccess.thecvf.com/content_CVPRW_2019/papers/Autonomous%20Driving/Zendel_RailSem19_A_Dataset_for_Semantic_Rail_Scene_Understanding_CVPRW_2019_paper.pdf)
-  - [WildDash benchmark](http://www.wilddash.cc/)
 <br/>
 
 
