@@ -61,11 +61,6 @@ Started to write on July 1 2019
 <br/>
 
 
-### Semantic segmentation
-- [Gated-SCNN: Gated Shape CNNs for Semantic Segmentation](https://www.profillic.com/paper/arxiv:1907.05740?fbclid=IwAR0P6pPt3ApCkR4AmWgs7__TFcuiImBKRJixU8BlE_HzldydVP-kgJFkLbU)
-<br/>
-
-
 ### 2D bounding box detection
 - https://handong1587.github.io/deep_learning/2015/10/09/object-detection.html
 - [Recent advances in object detection in the age of deep convolutional neural networks](https://hal.archives-ouvertes.fr/hal-01869779/document)
@@ -75,13 +70,8 @@ Started to write on July 1 2019
 <br/>
 
 
-### 2D Semantic segmentation survey
-- A review on deep learning techniques applied to semantic segmentation
-- Survey on semantic segmentation using deep learning techniques
-<br/>
-
-
-### Real-time semantic segmentation
+### Semantic segmentation
+*Real-time semantic segmentation1*
 - ENet: a deep neural architecture for real-time semantic segmentation
 - [ICNet for real-time semantic segmentation on high-resolution images](https://hszhao.github.io/projects/icnet/) 
 [[Caffe](https://github.com/hszhao/ICNet)]
@@ -92,6 +82,25 @@ Started to write on July 1 2019
 - ESPNet: efficient spatial pyramid of dilated convolutions for semantic segmentation
 - Guided upsampling network for real-time semantic segmentation
 <br/>
+
+*Real-time semantic segmentation2*
+- https://paperswithcode.com/sota/real-time-semantic-segmentation-on-cityscapes
+- BiSeNet: Bilateral Segmentation Network for Real-time Semantic Segmentation
+- In Defense of Pre-trained ImageNet Architectures for Real-time Semantic Segmentation of Road-driving Images
+- ESNet: An Efficient Symmetric Network for Real-time Semantic Segmentation
+- LEDNet: A Lightweight Encoder-Decoder Network for Real-Time Semantic Segmentation
+<br/>
+
+*Survey*
+- A review on deep learning techniques applied to semantic segmentation
+- Survey on semantic segmentation using deep learning techniques
+<br/>
+
+*Semantic segmentation*
+- https://paperswithcode.com/sota/semantic-segmentation-on-cityscapes
+- [Gated-SCNN: Gated Shape CNNs for Semantic Segmentation](https://www.profillic.com/paper/arxiv:1907.05740?fbclid=IwAR0P6pPt3ApCkR4AmWgs7__TFcuiImBKRJixU8BlE_HzldydVP-kgJFkLbU)
+<br/>
+
 
 
 ### General obstacle detection
