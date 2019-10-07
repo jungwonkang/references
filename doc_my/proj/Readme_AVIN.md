@@ -156,6 +156,7 @@ Started to write on July 1 2019
 - [Distant vehicle detection using radar and vision](https://arxiv.org/abs/1901.10951)
 - Off-road drivable area extraction using 3d LiDAR data
 - Convolutional Recurrent Network for Road Boundary Extraction
+- The Autonomous Train (D Trentesaux)
 <br/>
 
 
