@@ -157,6 +157,7 @@ Started to write on July 1 2019
 - Off-road drivable area extraction using 3d LiDAR data
 - Convolutional Recurrent Network for Road Boundary Extraction
 - The Autonomous Train (D Trentesaux)
+- A Survey of Autonomous Driving: Common Practices and Emerging Technologies
 <br/>
 
 
