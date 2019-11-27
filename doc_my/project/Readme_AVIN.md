@@ -101,11 +101,17 @@ Started to write on July 1 2019
 - In Defense of Pre-trained ImageNet Architectures for Real-time Semantic Segmentation of Road-driving Images
 - ESNet: An Efficient Symmetric Network for Real-time Semantic Segmentation
 - LEDNet: A Lightweight Encoder-Decoder Network for Real-Time Semantic Segmentation
+- HarDNet_A Low Memory Traffic Network (iccv 2019)
+  - https://github.com/PingoLH/Pytorch-HarDNet
+  - https://github.com/PingoLH/FCHarDNet
 <br/>
 
 *Survey*
 - A review on deep learning techniques applied to semantic segmentation
 - Survey on semantic segmentation using deep learning techniques
+- Survey of recent progress in semantic imagesegmentation with CNNs
+- Deep Multi-modal Object Detection and Semantic Segmentation for Autonomous Driving: Datasets, Methods, and Challenges
+  - https://boschresearch.github.io/multimodalperception/
 <br/>
 
 *Semantic segmentation*
