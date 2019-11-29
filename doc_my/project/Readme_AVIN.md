@@ -163,7 +163,14 @@ Started to write on July 1 2019
 - Off-road drivable area extraction using 3d LiDAR data
 - Convolutional Recurrent Network for Road Boundary Extraction
 - The Autonomous Train (D Trentesaux)
+<br/>
+
+
+### Etc (survey)
 - A Survey of Autonomous Driving: Common Practices and Emerging Technologies
+- A Systematic Review of Perception System and Simulators for Autonomous Vehicles Research
+- Recent advances in connected and automated vehicles
+- [MIT Advanced Vehicle Technology Study: Large-Scale Naturalistic Driving Study of Driver Behavior and Interaction With Automation](https://arxiv.org/pdf/1711.06976.pdf)
 <br/>
 
 
