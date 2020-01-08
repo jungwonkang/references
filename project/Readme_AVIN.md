@@ -298,6 +298,7 @@ Started to write on July 1 2019
 - Lanelets: Efficient map representation for autonomous driving
 - [MultiPath: Multiple probabilistic anchor trajectoryhypotheses for behavior prediction](https://arxiv.org/pdf/1910.05449.pdf)
 - [Diversity-aware vehicle motion prediction via latent semantic sampling](https://arxiv.org/abs/1911.12736)
+- Learning to predict ego-vehicle poses for sampling-based nonholonomic motion planning
 <br/>
 
 *Attention1*
