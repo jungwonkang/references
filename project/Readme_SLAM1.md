@@ -1,4 +1,4 @@
-# References - SLAM
+# References - SLAM1
 
 Started to write on July 17 2019
 <br/>
@@ -44,13 +44,7 @@ Started to write on July 17 2019
 #### LiDAR
 - Cartographer
 - LOAM, V-LOAM
-
-
-### IMU Preintegration
-#### aa
-- bb
-- cc
-- dd
+<br/>
 
 
 
