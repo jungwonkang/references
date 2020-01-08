@@ -37,5 +37,17 @@ Started to write on Jan 7 2020
 - [Fast and robust monocular visua-inertial odometry using points and lines](https://www.researchgate.net/publication/336693512_Fast_and_Robust_Monocular_Visua-Inertial_Odometry_Using_Points_and_Lines)
 - [A real-time sliding window based visual-inertial odometry for MAVs](https://ieeexplore.ieee.org/document/8931626)
 - [Adaptive monocular visual–inertial slam for real-time augmented reality applications in mobile devices](https://www.mdpi.com/1424-8220/17/11/2567)
+- [Using inertial sensors for positionand orientation estimation](https://arxiv.org/pdf/1704.06053.pdf)
 <br/>
+<br/>
+
+
+### Pose graph
+- Factor graph based incremental smoothing in inertial navigation systems
+- Factor graphs for robot perception
+- Information fusion in navigation systems via factor graph based incremental smoothing
+- Solution to the SLAM problem in low dynamic environments using a pose graph and an RGB-D sensor
+
+
+
 
