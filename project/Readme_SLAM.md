@@ -47,10 +47,10 @@ Started to write on July 17 2019
 
 
 ### IMU Preintegration
-- aa
-  - bb
-  - cc
-  - dd
+#### aa
+- bb
+- cc
+- dd
 
 
 
