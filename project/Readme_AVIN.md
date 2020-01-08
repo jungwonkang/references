@@ -282,7 +282,7 @@ Started to write on July 1 2019
 <br/>
 
 
-### Updated on Sept 22 2019
+### Updated (initially on Sept 22 2019)
 *Path1*
 - Convolutional Recurrent Network for Road Boundary Extraction
 - Deep Learning Driven Visual Path Prediction froma Single Image
@@ -296,6 +296,8 @@ Started to write on July 1 2019
 - Semantic Grid-Based Road Model Estimation for Autonomous Driving
 - Generation of Probabilistic Graphs for Path Planningfrom Stochastic Map
 - Lanelets: Efficient map representation for autonomous driving
+- [MultiPath: Multiple probabilistic anchor trajectoryhypotheses for behavior prediction](https://arxiv.org/pdf/1910.05449.pdf)
+- [Diversity-aware vehicle motion prediction via latent semantic sampling](https://arxiv.org/abs/1911.12736)
 <br/>
 
 *Attention1*
@@ -322,7 +324,7 @@ Started to write on July 1 2019
 - [End-to-End Multi-Task Learning with Attention](https://github.com/lorenmt/mtan)
 <br/>
 
-*cascade/multi stage semantic segmentation/multi task multi stage*
+*Cascade/Multi-stage semantic segmentation/Multi-task multi-stage*
 - A Multi-Stage Multi-Task Neural Network forAerial Scene Interpretation and Geolocalization
 - Roadmap Generation using a Multi-Stage Ensemble of Deep Neural Networks with Smoothing-Based Optimization
 - Multi-stage Object Detection with Group Recursive Learning
