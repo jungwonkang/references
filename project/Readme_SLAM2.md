@@ -14,7 +14,7 @@ Started to write on Jan 7 2020
 *Clearly stated*
 - [A general optimization-based framework for local odometry estimation with multiple sensor](https://arxiv.org/abs/1901.03638)
   - Code: https://github.com/HKUST-Aerial-Robotics/VINS-Fusion
-  - Clearly, stating that 'Within two time instants, t-1 and t, the preintegration produces relative position, velocity and rotation'.
+  <!-- Clearly, stating that 'Within two time instants, t-1 and t, the preintegration produces relative position, velocity and rotation'. -->
 - [IMU Preintegration for Visual-Inertial Odometry Pose Estimation](https://www.semanticscholar.org/paper/IMU-Preintegration-for-Visual-Inertial-Odometry-Liu-Su/23845719d3325763b886ffdba7ac2bdeb2790483)
   
 *Guoquan Huang's group*
