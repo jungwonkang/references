@@ -22,6 +22,7 @@ Started to write on Jan 7 2020
 - [Robocentric visual-inertial odometry](https://arxiv.org/pdf/1805.04031.pdf)
 - [Continuous preintegration theory for graph-based visual-inertial navigation](https://arxiv.org/pdf/1805.02774.pdf)
 - [Closed-form preintegration methods for graph-based visual-inertial navigation](https://arxiv.org/pdf/1805.02774.pdf)
+- [High-accuracy preintegration for visual inertial navigation](http://udel.edu/~ghuang/papers/tr_hapi.pdf)
 
 *Base*
 - Visual-inertial-aided navigation for high-dynamic motion in built environments without initial conditions
