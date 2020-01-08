@@ -7,6 +7,7 @@ Started to write on Jan 7 2020
 - [Description of VINS-Mono](https://alexanderhmw.blog/2018/04/24/vins-mono-a-robust-and-versatile-monocular-visual-inertial-state-estimator-3/)
 - [Towards Robust and Safe Autonomous Drones](https://www.slideshare.net/SERENEWorkshop/towards-robust-and-safe-autonomous-drones)
 - [Structure from Motion (in CMSC426 Computer Vision)](https://cmsc426.github.io/gtsam/)
+- [Course lecture on visual inertial fusion (by Davide Scaramuzza)](http://rpg.ifi.uzh.ch/docs/teaching/2019/13_visual_inertial_fusion.pdf)
 <br/>
 <br/>
 
@@ -32,6 +33,7 @@ Started to write on Jan 7 2020
 - [The preintegrated IMU factor in GTSAM](https://gtsam.org/notes/IMU-Factor.html)
 
 *Etc*
+- [Accurate imu preintegration using switched linear systems for autonomous systems](https://arxiv.org/pdf/1907.08434.pdf)
 - [Fast and robust monocular visua-inertial odometry using points and lines](https://www.researchgate.net/publication/336693512_Fast_and_Robust_Monocular_Visua-Inertial_Odometry_Using_Points_and_Lines)
 - [A real-time sliding window based visual-inertial odometry for MAVs](https://ieeexplore.ieee.org/document/8931626)
 - [Adaptive monocular visual–inertial slam for real-time augmented reality applications in mobile devices](https://www.mdpi.com/1424-8220/17/11/2567)
