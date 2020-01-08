@@ -16,7 +16,7 @@ Started to write on July 1 2019
 - https://paperswithcode.com/task/lane-detection/codeless
 <br/>
 
-*CNN*
+*CNN-based*
 - 3D Lanenet: end-to-end 3d multiple lane detection
 - An efficient encoder-decoder cnn architecture for reliable multilane detection in real time
 - Reliable multilane detection and classification by utilizing cnn as a regression network
@@ -27,19 +27,19 @@ Started to write on July 1 2019
 - Spatial as deep_spatial cnn for traffic scene understanding
 <br/>
 
-*RNN*
+*RNN-based*
 - Deep neural network for structural prediction and lane detection in traffic scene
 - Lanenet: real-time lane detection networks for autonomous driving
 - Robust lane detection from continuous driving scenes using deep neural networks
 <br/>
 
-*LiDAR*
+*Using LiDAR*
 - Hierarchical recurrent attention networks for structured online maps
 [[Tensorflow](https://github.com/shawnspace/HRAN)]
 - Real-Time Road Lane Detection in Urban Areas Using LiDAR Data
 <br/>
 
-*Vision + LiDAR*
+*Using Vision + LiDAR*
 - Deep multi-sensor lane detection
 <br/>
 
@@ -171,6 +171,7 @@ Started to write on July 1 2019
 - A Systematic Review of Perception System and Simulators for Autonomous Vehicles Research
 - Recent advances in connected and automated vehicles
 - [MIT Advanced Vehicle Technology Study: Large-Scale Naturalistic Driving Study of Driver Behavior and Interaction With Automation](https://arxiv.org/pdf/1711.06976.pdf)
+- [Deep learning for 3d point clouds: a survey](https://arxiv.org/pdf/1912.12033v1.pdf)
 <br/>
 
 
