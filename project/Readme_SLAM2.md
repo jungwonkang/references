@@ -2,10 +2,11 @@
 
 Started to write on Jan 7 2020
 <br/>
-### SLAM Overview
+### Overview
 - [Visual Odometry and SLAM: past, present, and the robust-perception age (by Davide Scaramuzza)](https://www.rsj.or.jp/databox/international/iros16tutorial_2.pdf)
 - [Description of VINS-Mono](https://alexanderhmw.blog/2018/04/24/vins-mono-a-robust-and-versatile-monocular-visual-inertial-state-estimator-3/)
 - [Towards Robust and Safe Autonomous Drones](https://www.slideshare.net/SERENEWorkshop/towards-robust-and-safe-autonomous-drones)
+- [Structure from Motion (in CMSC426 Computer Vision)](https://cmsc426.github.io/gtsam/)
 <br/>
 <br/>
 
