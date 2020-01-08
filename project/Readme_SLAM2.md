@@ -47,7 +47,13 @@ Started to write on Jan 7 2020
 - Factor graphs for robot perception
 - Information fusion in navigation systems via factor graph based incremental smoothing
 - Solution to the SLAM problem in low dynamic environments using a pose graph and an RGB-D sensor
+<br/>
+<br/>
 
+
+### Useful link
+- [SLAM KR youtube (in Korean)](https://www.youtube.com/channel/UCXvT7auo7xUd7v0B2pmvwIA)
+<br/>
 
 
 
