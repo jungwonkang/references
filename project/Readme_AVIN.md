@@ -288,6 +288,8 @@ Started to write on July 1 2019
 - [MultiPath: Multiple probabilistic anchor trajectory hypotheses for behavior prediction](https://arxiv.org/pdf/1910.05449.pdf)
 - [Diversity-aware vehicle motion prediction via latent semantic sampling](https://arxiv.org/abs/1911.12736)
 - [Learning to predict ego-vehicle poses for sampling-based nonholonomic motion planning](https://arxiv.org/abs/1812.01127)
+- Gonet++: Traversability estimation via dynamic scene view synthesis
+  - https://github.com/NHirose/VUNet
 <br/>
 
 *Attention1*
