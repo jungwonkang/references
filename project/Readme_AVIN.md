@@ -172,6 +172,7 @@ Started to write on July 1 2019
 - Recent advances in connected and automated vehicles
 - [MIT Advanced Vehicle Technology Study: Large-Scale Naturalistic Driving Study of Driver Behavior and Interaction With Automation](https://arxiv.org/pdf/1711.06976.pdf)
 - [Deep learning for 3d point clouds: a survey](https://arxiv.org/pdf/1912.12033v1.pdf)
+- [Self-Driving Cars: A Survey](https://arxiv.org/pdf/1901.04407.pdf)
 <br/>
 
 
@@ -276,7 +277,7 @@ Started to write on July 1 2019
 - Convolutional Recurrent Network for Road Boundary Extraction
 - Deep Learning Driven Visual Path Prediction froma Single Image
 - Deep Semantic Lane Segmentation for Mapless Driving
-- Find Your Own Way_Weakly-Supervised Segmentation of Path Proposals for Urban Autonomy
+- Find Your Own Way: Weakly-Supervised Segmentation of Path Proposals for Urban Autonomy
 - LIDAR-based Driving Path Generation Using Fully Convolutional Neural Networks
 - Predicting Ego-Vehicle Paths from Environmental Observations with a Deep Neural Network
 <br/>
@@ -292,6 +293,10 @@ Started to write on July 1 2019
   - https://github.com/NHirose/VUNet
 - Dynamic path planning for autonomous driving on various roads with avoidance of static and moving obstacles
 - A Survey of Motion Planning and ControlTechniques for Self-driving Urban Vehicles
+- NeuroTrajectory: A Neuroevolutionary Approach to Local State Trajectory Learning for Autonomous Vehicles
+- [DRIVE Labs: How We’re Building Path Perception for Autonomous Vehicles](https://blogs.nvidia.com/blog/2019/04/30/drive-labs-path-perception/)
+- Automated Process for Incorporating Drivable Path intoReal-time Semantic Segmentation
+- Winning the DARPA Grand Challenge
 <br/>
 
 *Attention1*
@@ -305,6 +310,7 @@ Started to write on July 1 2019
 - Using the wide range attention U Net for road segmentation
 - Towards Accurate High Resolution SatelliteImage Semantic Segmentation
 - Building Extraction from High-Resolution Aerial Imagery Using a Generative Adversarial Network with Spatial and Channel Attention Mechanisms
+- Trajectory planning for autonomous vehicle in uncertainenvironment using evidential grid
 <br/>
 
 *Attention2*
@@ -340,6 +346,9 @@ Started to write on July 1 2019
 - Pseudo-LiDAR from Visual Depth Estimation: Bridging the Gap in 3D Object Detection for Autonomous Driving
 - DisNet: A novel method for distance estimation from monocular camera
 - Stereo R-CNN based 3D Object Detection for Autonomous Driving
+
+*Radar
+- [Self-Supervised Occupancy Grid Learning From Sparse Radar for Autonomous Driving](https://www.groundai.com/project/self-supervised-occupancy-grid-learning-from-sparse-radar-for-autonomous-driving/1)
 <br/>
 
 
