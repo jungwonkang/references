@@ -297,6 +297,9 @@ Started to write on July 1 2019
 - [DRIVE Labs: How We’re Building Path Perception for Autonomous Vehicles](https://blogs.nvidia.com/blog/2019/04/30/drive-labs-path-perception/)
 - Automated Process for Incorporating Drivable Path intoReal-time Semantic Segmentation
 - Winning the DARPA Grand Challenge
+- Grid-Based Multi-Road-Course EstimationUsing Motion Planning
+- Semantic Grid-Based Road Model Estimation for Autonomous Driving
+- [Explaining the Hybrid A Star pathfinding algorithm for selfdriving cars](https://blog.habrador.com/2015/11/explaining-hybrid-star-pathfinding.html)
 <br/>
 
 *Attention1*
