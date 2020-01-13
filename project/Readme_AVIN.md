@@ -289,17 +289,16 @@ Started to write on July 1 2019
 - [MultiPath: Multiple probabilistic anchor trajectory hypotheses for behavior prediction](https://arxiv.org/pdf/1910.05449.pdf)
 - [Diversity-aware vehicle motion prediction via latent semantic sampling](https://arxiv.org/abs/1911.12736)
 - [Learning to predict ego-vehicle poses for sampling-based nonholonomic motion planning](https://arxiv.org/abs/1812.01127)
-- Gonet++: Traversability estimation via dynamic scene view synthesis
-  - https://github.com/NHirose/VUNet
+- [Gonet++: Traversability estimation via dynamic scene view synthesis](https://github.com/NHirose/VUNet)
 - Dynamic path planning for autonomous driving on various roads with avoidance of static and moving obstacles
-- A Survey of Motion Planning and ControlTechniques for Self-driving Urban Vehicles
+- A Survey of Motion Planning and Control Techniques for Self-driving Urban Vehicles
 - NeuroTrajectory: A Neuroevolutionary Approach to Local State Trajectory Learning for Autonomous Vehicles
 - [DRIVE Labs: How We’re Building Path Perception for Autonomous Vehicles](https://blogs.nvidia.com/blog/2019/04/30/drive-labs-path-perception/)
-- Automated Process for Incorporating Drivable Path intoReal-time Semantic Segmentation
+- Automated Process for Incorporating Drivable Path into Real-time Semantic Segmentation
 - Winning the DARPA Grand Challenge
 - Grid-Based Multi-Road-Course EstimationUsing Motion Planning
 - Semantic Grid-Based Road Model Estimation for Autonomous Driving
-- [Explaining the Hybrid A Star pathfinding algorithm for selfdriving cars](https://blog.habrador.com/2015/11/explaining-hybrid-star-pathfinding.html)
+- [Explaining the Hybrid A Star pathfinding algorithm for self driving cars](https://blog.habrador.com/2015/11/explaining-hybrid-star-pathfinding.html)
 <br/>
 
 *Attention1*
