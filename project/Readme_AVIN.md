@@ -324,27 +324,19 @@ Started to write on July 1 2019
 - Hybrid Task Cascade for Instance Segmentation
 - Multi-stage Multi-recursive-input Fully Convolutional Networks for Neuronal Boundary Detection
 - A multi-task U-net for segmentation with lazy labels
+<br/>
 
 *Person detection (July 22 2019)*
 - CrowdHuman: A Benchmark for Detecting Human in a Crowd
 - Center and Scale Prediction: A Box-free Approach for Object Detection
 - Frustum PointNets for 3D Object Detection from RGB-D Data
+<br/>
 
 *Object detection (Aug 13 2019)*
 - Pseudo-LiDAR from Visual Depth Estimation: Bridging the Gap in 3D Object Detection for Autonomous Driving
 - DisNet: A novel method for distance estimation from monocular camera
 - Stereo R-CNN based 3D Object Detection for Autonomous Driving
 <br/>
-
-
-
-
-
-
-
-
-
-
 
 
 
