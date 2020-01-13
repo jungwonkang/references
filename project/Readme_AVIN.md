@@ -269,17 +269,6 @@ Started to write on July 1 2019
 <br/>
 
 
-### From Jacob
-*Person detection (July 22 2019)*
-- CrowdHuman: A Benchmark for Detecting Human in a Crowd
-- Center and Scale Prediction: A Box-free Approach for Object Detection
-- Frustum PointNets for 3D Object Detection from RGB-D Data
-
-*Object detection (Aug 13 2019)*
-- Pseudo-LiDAR from Visual Depth Estimation: Bridging the Gap in 3D Object Detection for Autonomous Driving
-- DisNet: A novel method for distance estimation from monocular camera
-- Stereo R-CNN based 3D Object Detection for Autonomous Driving
-<br/>
 
 
 ### Updated (initially on Sept 22 2019)
@@ -296,7 +285,7 @@ Started to write on July 1 2019
 - Semantic Grid-Based Road Model Estimation for Autonomous Driving
 - Generation of Probabilistic Graphs for Path Planningfrom Stochastic Map
 - Lanelets: Efficient map representation for autonomous driving
-- [MultiPath: Multiple probabilistic anchor trajectoryhypotheses for behavior prediction](https://arxiv.org/pdf/1910.05449.pdf)
+- [MultiPath: Multiple probabilistic anchor trajectory hypotheses for behavior prediction](https://arxiv.org/pdf/1910.05449.pdf)
 - [Diversity-aware vehicle motion prediction via latent semantic sampling](https://arxiv.org/abs/1911.12736)
 - [Learning to predict ego-vehicle poses for sampling-based nonholonomic motion planning](https://arxiv.org/abs/1812.01127)
 <br/>
@@ -336,6 +325,16 @@ Started to write on July 1 2019
 - Multi-stage Multi-recursive-input Fully Convolutional Networks for Neuronal Boundary Detection
 - A multi-task U-net for segmentation with lazy labels
 
+*Person detection (July 22 2019)*
+- CrowdHuman: A Benchmark for Detecting Human in a Crowd
+- Center and Scale Prediction: A Box-free Approach for Object Detection
+- Frustum PointNets for 3D Object Detection from RGB-D Data
+
+*Object detection (Aug 13 2019)*
+- Pseudo-LiDAR from Visual Depth Estimation: Bridging the Gap in 3D Object Detection for Autonomous Driving
+- DisNet: A novel method for distance estimation from monocular camera
+- Stereo R-CNN based 3D Object Detection for Autonomous Driving
+<br/>
 
 
 
