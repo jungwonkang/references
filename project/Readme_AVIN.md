@@ -290,6 +290,8 @@ Started to write on July 1 2019
 - [Learning to predict ego-vehicle poses for sampling-based nonholonomic motion planning](https://arxiv.org/abs/1812.01127)
 - Gonet++: Traversability estimation via dynamic scene view synthesis
   - https://github.com/NHirose/VUNet
+- Dynamic path planning for autonomous driving on various roads with avoidance of static and moving obstacles
+- A Survey of Motion Planning and ControlTechniques for Self-driving Urban Vehicles
 <br/>
 
 *Attention1*
