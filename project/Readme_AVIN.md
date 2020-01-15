@@ -25,6 +25,7 @@ Started to write on July 1 2019
 - VPGnet: vanishing point guided network for lane and road marking detection and recognition
 - FastDraw: addressing the long tail of lane detection by adapting a sequential prediction network
 - Spatial as deep_spatial cnn for traffic scene understanding
+- [Multi-lane Detection Using Instance Segmentation and Attentive Voting](https://arxiv.org/abs/2001.00236)
 <br/>
 
 *RNN-based*
