@@ -111,8 +111,9 @@ Started to write on July 1 2019
 - A review on deep learning techniques applied to semantic segmentation
 - Survey on semantic segmentation using deep learning techniques
 - Survey of recent progress in semantic imagesegmentation with CNNs
-- Deep Multi-modal Object Detection and Semantic Segmentation for Autonomous Driving: Datasets, Methods, and Challenges
-  - https://boschresearch.github.io/multimodalperception/
+- [Deep Multi-modal Object Detection and Semantic Segmentation for Autonomous Driving: Datasets, Methods, and Challenges](https://boschresearch.github.io/multimodalperception/)
+- A survey on 3d object detection methods for autonomous driving applications
+- Deep learning for generic object detection: A survey
 <br/>
 
 *Semantic segmentation*
