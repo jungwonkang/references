@@ -58,6 +58,8 @@ Started to write on July 14 2019
 - UWB Localization Systemfor Indoor Applications: Concept, Realization and Analysis
 - Indoor Aerial Vehicle Navigation using Ultra Wideband Active Two-Way Ranging
 - [Anchor selection for UWB indoor positioning](https://onlinelibrary.wiley.com/doi/10.1002/ett.3598)
+- Location determination using WiFi fingerprinting versus WiFi trilateration
+<br/>
 
 *DOP (Dilution of Precision) 2*
 - [The Dilution of Precision - Anchor Geometry](https://www.sewio.net/the-dilution-of-precision-anchor-geometry/)
