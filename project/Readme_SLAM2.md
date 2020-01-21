@@ -63,6 +63,7 @@ Started to write on Jan 7 2020
   - github: https://github.com/MOLAorg/mola
   - presentation: https://youtu.be/qwh8hGEJSlA
 - [UAL course on factor graph](https://github.com/jlblancoc/2020-ual-factor-graphs-course)
+- [Perception and Decision-Making of Autonomous Systems in the Era of Learning: An Overview](https://arxiv.org/abs/2001.02319)
 <br/>
 
 
