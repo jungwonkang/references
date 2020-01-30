@@ -46,7 +46,7 @@ Started to write on July 14 2019
 ### UWB Multilaternation
 *Algorithm*
 - A Novel Robust Trilateration Method Applied to Ultra-Wide Bandwidth Location Systems
-- Indoor Robot Positioning using anEnhanced Trilateration Algorithm
+- Indoor Robot Positioning using an Enhanced Trilateration Algorithm
 - Ultra-wideband-based multilateration technique for indoor localisation
 - Self-Weighted Multilateration for Indoor Positioning Systems
 <br/>
