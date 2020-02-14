@@ -105,6 +105,7 @@ Started to write on July 1 2019
 - HarDNet_A Low Memory Traffic Network (iccv 2019)
   - https://github.com/PingoLH/Pytorch-HarDNet
   - https://github.com/PingoLH/FCHarDNet
+- [FasterSeg: Searching for Faster Real-time Semantic Segmentation](https://arxiv.org/abs/1912.10917)
 <br/>
 
 *Survey*
