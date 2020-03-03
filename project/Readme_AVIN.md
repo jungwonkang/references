@@ -8,6 +8,7 @@ Started to write on July 1 2019
   - [WildDash benchmark](http://www.wilddash.cc/)
 - [A dataset for lane instance segmentation in urban environments](http://openaccess.thecvf.com/content_ECCV_2018/html/Brook_Roberts_A_Dataset_for_ECCV_2018_paper.html)
 - [FRSign - French Railway Signalling Dataset](https://frsign.irt-systemx.fr/)
+- [VisualData Discovery](https://www.visualdata.io/)
 <br/>
 
 
