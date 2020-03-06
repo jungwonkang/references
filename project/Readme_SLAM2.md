@@ -8,6 +8,9 @@ Started to write on Jan 7 2020
 - [Towards Robust and Safe Autonomous Drones](https://www.slideshare.net/SERENEWorkshop/towards-robust-and-safe-autonomous-drones)
 - [Structure from Motion (in CMSC426 Computer Vision)](https://cmsc426.github.io/gtsam/)
 - [Course lecture on visual inertial fusion (by Davide Scaramuzza)](http://rpg.ifi.uzh.ch/docs/teaching/2019/13_visual_inertial_fusion.pdf)
+- [Perception and Decision-Making of Autonomous Systems in the Era of Learning: An Overview](https://arxiv.org/abs/2001.02319)
+  - Providing a comprehensive review of the current state-of-the-art SLAM
+- [Keyframe-based monocular SLAM: design, survey, and future directions](https://arxiv.org/pdf/1607.00470.pdf)
 <br/>
 <br/>
 
@@ -63,8 +66,6 @@ Started to write on Jan 7 2020
   - github: https://github.com/MOLAorg/mola
   - presentation: https://youtu.be/qwh8hGEJSlA
 - [UAL course on factor graph](https://github.com/jlblancoc/2020-ual-factor-graphs-course)
-- [Perception and Decision-Making of Autonomous Systems in the Era of Learning: An Overview](https://arxiv.org/abs/2001.02319)
-  - Providing a comprehensive review of the current state-of-the-art SLAM
 <br/>
 
 
