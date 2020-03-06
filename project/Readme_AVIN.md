@@ -157,6 +157,7 @@ Started to write on July 1 2019
 
 
 ### Etc
+- Multi-modal object detection and localization for high integrity driving assistance
 - Road scene understanding by occupancy grid learning from sparse radar clusters using semantic segmentation
 - Semantic instance segmentation with a discriminative loss function
 [[Pytorch](https://github.com/Wizaron/instance-segmentation-pytorch)]
