@@ -55,6 +55,12 @@ Started to write on Jan 7 2020
 <br/>
 
 
+### Visual LiDAR fusion
+- DVL-SLAM: Sparse Depth Enhanced Direct Visual-LiDAR SLAM
+<br/>
+<br/>
+
+
 ### Useful link
 - [SLAM KR youtube channel (in Korean)](https://www.youtube.com/channel/UCXvT7auo7xUd7v0B2pmvwIA)
 <br/>
