@@ -55,8 +55,11 @@ Started to write on Jan 7 2020
 <br/>
 
 
-### Visual LiDAR fusion
-- DVL-SLAM: Sparse Depth Enhanced Direct Visual-LiDAR SLAM
+### Visual-LiDAR SLAM
+- Vision-enhanced LiDAR odometry and mapping (Master's thesis, Carnegie Mellon University)
+- A real-time method for depth enhanced visual odometry
+- Limo: LiDAR monocular visual odometry
+- DVL-SLAM: Sparse depth enhanced direct visual-LiDAR SLAM
 <br/>
 <br/>
 
