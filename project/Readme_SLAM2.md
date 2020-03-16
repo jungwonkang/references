@@ -56,9 +56,9 @@ Started to write on Jan 7 2020
 
 
 ### Visual-LiDAR SLAM
-- Vision-enhanced LiDAR odometry and mapping (Master's thesis, Carnegie Mellon University)
-- A real-time method for depth enhanced visual odometry
-- Limo: LiDAR monocular visual odometry
+- [Vision-enhanced LiDAR odometry and mapping (Master's thesis, Carnegie Mellon University)](https://www.ri.cmu.edu/pub_files/2016/8/DLL-thesis.pdf)
+- [A real-time method for depth enhanced visual odometry](https://frc.ri.cmu.edu/~zhangji/publications/AURO_2017.pdf)
+- [LIMO: LiDAR monocular visual odometry](https://arxiv.org/pdf/1807.07524.pdf)
 - DVL-SLAM: Sparse depth enhanced direct visual-LiDAR SLAM
 <br/>
 <br/>
