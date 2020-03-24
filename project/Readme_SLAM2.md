@@ -11,6 +11,8 @@ Started to write on Jan 7 2020
 - [Perception and Decision-Making of Autonomous Systems in the Era of Learning: An Overview](https://arxiv.org/abs/2001.02319)
   - Providing a comprehensive review of the current state-of-the-art SLAM
 - [Keyframe-based monocular SLAM: design, survey, and future directions](https://arxiv.org/pdf/1607.00470.pdf)
+- [Past, present, and future of SLAM: towards the robust-perception age](https://arxiv.org/pdf/1606.05830.pdf)
+- [Simultaneous localization and mapping: a survey of current trends in autonomous driving](https://hal.archives-ouvertes.fr/hal-01615897/file/2017-simultaneous_localization_and_mapping_a_survey_of_current_trends_in_autonomous_driving.pdf)
 <br/>
 <br/>
 
