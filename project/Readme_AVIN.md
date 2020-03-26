@@ -104,7 +104,7 @@ Started to write on July 1 2019
 - In Defense of Pre-trained ImageNet Architectures for Real-time Semantic Segmentation of Road-driving Images
 - ESNet: An Efficient Symmetric Network for Real-time Semantic Segmentation
 - LEDNet: A Lightweight Encoder-Decoder Network for Real-Time Semantic Segmentation
-- HarDNet_A Low Memory Traffic Network (iccv 2019)
+- HarDNet: A Low Memory Traffic Network (iccv 2019)
   - https://github.com/PingoLH/Pytorch-HarDNet
   - https://github.com/PingoLH/FCHarDNet
 - [FasterSeg: Searching for Faster Real-time Semantic Segmentation](https://arxiv.org/abs/1912.10917)
