@@ -82,6 +82,7 @@ Started to write on July 1 2019
 - [turnout] Rail and turnout detection using gradient information and template matching
 - Vision based rail track and switch recognition for self-localization of trains in a rail network
 - A Vision-Based Approach for Rail Extraction and its Application in a Camera Pan-Tilt Control System
+- A Vision-Based Approach for Tramway Rail Extraction
 <br/>
 
 
