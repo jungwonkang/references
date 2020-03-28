@@ -4,6 +4,16 @@ Started to write on July 1 2019
 <br/>
 
 
+
+
+
+
+
+## Etc
+- asdas
+
+
+
 ### Semantic segmentation
 *Real-time semantic segmentation1*
 - ENet: a deep neural architecture for real-time semantic segmentation
