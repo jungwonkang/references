@@ -75,17 +75,5 @@ Started to write on Jan 7 2020
 
 
 
-<!-- 
-######################################################################################################################################################
-######################################################################################################################################################
--->
-## SLAM group
-
-#### IRAP-KAIST
-- Complex Urban Dataset with Multi-level Sensors from Highly Diverse Urban Environments (ijrr 2019)
-- Complex Urban LiDAR Data Set (icra 2018)
-- The Road is Enough_Extrinsic Calibration of Non-overlapping Stereo Camera and LiDAR using Road Information
-<br/>
-<br/>
 
 
