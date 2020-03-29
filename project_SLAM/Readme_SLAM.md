@@ -32,6 +32,8 @@ Started to write on Jan 7 2020
 ######################################################################################################################################################
 ######################################################################################################################################################
 -->
+## SLAM research
+
 
 #### General Framework
 - [A Modular Optimization Framework for Localization and Mapping](http://www.roboticsproceedings.org/rss15/p43.pdf)
@@ -47,7 +49,7 @@ Started to write on Jan 7 2020
 - [LIMO: LiDAR monocular visual odometry](https://arxiv.org/pdf/1807.07524.pdf)
 - DVL-SLAM: Sparse depth enhanced direct visual-LiDAR SLAM
 
-### LiDAR SLAM
+#### LiDAR SLAM
 - Cartographer
 - LOAM
 
