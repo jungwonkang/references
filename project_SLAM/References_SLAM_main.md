@@ -48,10 +48,19 @@ Started to write on Jan 7 2020
 - [A real-time method for depth enhanced visual odometry](https://frc.ri.cmu.edu/~zhangji/publications/AURO_2017.pdf)
 - [LIMO: LiDAR monocular visual odometry](https://arxiv.org/pdf/1807.07524.pdf)
 - DVL-SLAM: Sparse depth enhanced direct visual-LiDAR SLAM
+- [Stereo Visual Inertial LiDAR Simultaneous Localization and Mapping](https://arxiv.org/abs/1902.10741)
+- A Simultaneous Localization and Mapping (SLAM) Framework for 2.5D Map Building Based on Low-Cost LiDAR and Vision Fusion
+
+
+#### Panoramic Vision-LiDAR SLAM
+- 3D Scene Reconstruction Using Omnidirectional Vision and LiDAR A Hybrid Approach
+- Line-Based Registration of Panoramic Images and LiDAR Point Clouds for Mobile Mapping
+
 
 #### LiDAR SLAM
 - Cartographer
 - LOAM
+
 
 #### Visual Odometry/SLAM
 - PTAM, DTAM
@@ -66,12 +75,21 @@ Started to write on Jan 7 2020
 - Maplab
 
 
-#### Panoramic vision based SLAM
+#### Panoramic Vision based SLAM
 - PVO: Panoramic Visual Odometry [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8610700&tag=1)] [[movie](https://youtu.be/CdPFPKPT4CE)] [[git](https://github.com/MinjieLin/panorama_slam)]
   - [Ricoh Theta V](https://theta360.com/en/about/theta/v.html)
 - Monocular Visual Odometry in Urban Environments Using an Omnidirectional Camera [[movie]](https://youtu.be/cq63ItHfv50)
 <br/>
 <br/>
+
+
+#### LOAM Series
+- LOAM: Lidar Odometry and Mapping in Real-time (RSS 2014)
+- Real-time Depth Enhanced Monocular Odometry (IROS 2014)
+- Visual-lidar Odometry and Mapping_Low-drift, Robust, and Fast (ICRA 2015)
+- Laser-visual-inertial Odometry and Mapping with High Robustness and Low Drift (JFR2018)
+
+
 
 
 
