@@ -79,8 +79,6 @@ Started to write on Jan 7 2020
 - PVO: Panoramic Visual Odometry [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8610700&tag=1)] [[movie](https://youtu.be/CdPFPKPT4CE)] [[git](https://github.com/MinjieLin/panorama_slam)]
   - [Ricoh Theta V](https://theta360.com/en/about/theta/v.html)
 - Monocular Visual Odometry in Urban Environments Using an Omnidirectional Camera [[movie]](https://youtu.be/cq63ItHfv50)
-<br/>
-<br/>
 
 
 #### LOAM Series
