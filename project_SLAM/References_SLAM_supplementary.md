@@ -1,4 +1,4 @@
-# References - SLAM base
+# References - SLAM (supplementary)
 
 Started to write on Jan 7 2020
 
