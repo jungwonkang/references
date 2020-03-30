@@ -9,34 +9,36 @@ Started to write on July 1 2019
 ##############################################################################################################################
 -->
 ## Real-Time Semantic Segmentation on Cityscapes test
-https://paperswithcode.com/sota/real-time-semantic-segmentation-on-cityscapes
+  - https://paperswithcode.com/sota/real-time-semantic-segmentation-on-cityscapes
 
 #### rank 1: U-HarDNet-70 [HarDNet: A Low Memory Traffic Network]
-- https://github.com/PingoLH/FCHarDNet
-- [Personal blog in Korean](http://blog.naver.com/PostView.nhn?blogId=kangsho15&logNo=221833735869)
+  - https://github.com/PingoLH/FCHarDNet
+  - [Personal blog in Korean](http://blog.naver.com/PostView.nhn?blogId=kangsho15&logNo=221833735869)
 
 
 #### rank 2: SwiftNetRN-18
-- https://github.com/orsic/swiftnet
+  - https://github.com/orsic/swiftnet
 
 
 #### rank 3: ShelfNet18
-https://github.com/juntang-zhuang/ShelfNet
-https://github.com/juntang-zhuang/ShelfNet-lw-cityscapes
+  - https://github.com/juntang-zhuang/ShelfNet
+  - https://github.com/juntang-zhuang/ShelfNet-lw-cityscapes
 
 
 #### rank 4: BiSeNet
-Fast, modular reference implementation and easy training of Semantic Segmentation algorithms in PyTorch.
-- https://github.com/ycszen/TorchSeg
+  - Fast, modular reference implementation and easy training of Semantic Segmentation algorithms in PyTorch.
+  - https://github.com/ycszen/TorchSeg
 
 
 #### rank 6: FasterSeg
-Teacher, student network
-- https://github.com/TAMU-VITA/FasterSeg
+  - Teacher, student network
+  - https://github.com/TAMU-VITA/FasterSeg
 
 
 #### rank 8: LEDNet
-- https://github.com/xiaoyufenfei/LEDNet
+  - https://github.com/xiaoyufenfei/LEDNet
+<br/>
+<br/>
 
 
 
@@ -45,20 +47,22 @@ Teacher, student network
 ##############################################################################################################################
 -->
 ## (Non real-Time) Semantic Segmentation on Cityscapes test
-https://paperswithcode.com/sota/semantic-segmentation-on-cityscapes
+  - https://paperswithcode.com/sota/semantic-segmentation-on-cityscapes
 
 
 #### rank 1: HRNetV2 + OCR, rank 6: OCR
-- https://paperswithcode.com/paper/object-contextual-representations-for#code
-- https://github.com/HRNet/HRNet-Semantic-Segmentation
-- https://github.com/PkuRainBow/OCNet.pytorch
+  - https://paperswithcode.com/paper/object-contextual-representations-for#code
+  - https://github.com/HRNet/HRNet-Semantic-Segmentation
+  - https://github.com/PkuRainBow/OCNet.pytorch
 
 
 #### rank 5: Gated-SCNN
-https://github.com/nv-tlabs/GSCNN
+  - https://github.com/nv-tlabs/GSCNN
 
 
 #### rank 23: PSPNet
+<br/>
+<br/>
 
 
 
@@ -69,22 +73,24 @@ https://github.com/nv-tlabs/GSCNN
 ## General segmentation toolbox
 
 #### Semantic Segmentation Architectures Implemented in PyTorch
-https://github.com/meetshah1995/pytorch-semseg
+  - https://github.com/meetshah1995/pytorch-semseg
 
 #### PyTorch Implementations for DeeplabV3 and PSPNet
-https://github.com/speedinghzl/pytorch-segmentation-toolbox
+  - https://github.com/speedinghzl/pytorch-segmentation-toolbox
 
 #### Segmentation models with pretrained backbones
-https://github.com/qubvel/segmentation_models.pytorch
+  - https://github.com/qubvel/segmentation_models.pytorch
 
 #### Pytorch implementation for Semantic Segmentation/Scene Parsing on MIT ADE20K dataset
-https://github.com/CSAILVision/semantic-segmentation-pytorch
+  - https://github.com/CSAILVision/semantic-segmentation-pytorch
 
 #### Semantic Segmentation on PyTorch (include FCN, PSPNet, Deeplabv3, Deeplabv3+, DANet, DenseASPP, BiSeNet, EncNet, DUNet, ICNet, ENet, OCNet, CCNet, PSANet, CGNet, ESPNet, LEDNet, DFANet)
-https://github.com/Tramac/awesome-semantic-segmentation-pytorch
+  - https://github.com/Tramac/awesome-semantic-segmentation-pytorch
 
 #### Semantic Segmentation in Pytorch
-https://github.com/hszhao/semseg
+  - https://github.com/hszhao/semseg
+<br/>
+<br/>
 
 
 
@@ -93,10 +99,12 @@ https://github.com/hszhao/semseg
 ##############################################################################################################################
 -->
 ## Survey
-- A review on deep learning techniques applied to semantic segmentation
-- Survey on semantic segmentation using deep learning techniques
-- Survey of recent progress in semantic imagesegmentation with CNNs
-- [Deep Multi-modal Object Detection and Semantic Segmentation for Autonomous Driving: Datasets, Methods, and Challenges](https://boschresearch.github.io/multimodalperception/)
+  - A review on deep learning techniques applied to semantic segmentation
+  - Survey on semantic segmentation using deep learning techniques
+  - Survey of recent progress in semantic imagesegmentation with CNNs
+  - [Deep Multi-modal Object Detection and Semantic Segmentation for Autonomous Driving: Datasets, Methods, and Challenges](https://boschresearch.github.io/multimodalperception/)
+<br/>
+<br/>
 
 
 
@@ -107,12 +115,12 @@ https://github.com/hszhao/semseg
 ## Etc
 
 #### PyTorch ResNet Semantic Segmentation
-- http://blog.daum.net/ejleep1/896
-- https://www.learnopencv.com/pytorch-for-beginners-semantic-segmentation-using-torchvision/
+  - http://blog.daum.net/ejleep1/896
+  - https://www.learnopencv.com/pytorch-for-beginners-semantic-segmentation-using-torchvision/
 
 
 #### Semantic Segmentation - FCN
-- https://bskyvision.com/491
+  - https://bskyvision.com/491
 
 
 
