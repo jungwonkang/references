@@ -29,6 +29,7 @@ Started to write on July 1 2019
 #### rank 4: BiSeNet
   - Fast, modular reference implementation and easy training of Semantic Segmentation algorithms in PyTorch.
   - https://github.com/ycszen/TorchSeg
+  - https://github.com/ooooverflow/BiSeNet
 
 
 #### rank 6: FasterSeg
