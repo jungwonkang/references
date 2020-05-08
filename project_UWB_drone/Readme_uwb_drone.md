@@ -18,7 +18,10 @@ Started to write on July 14 2019
 
 *Calibration*
 - [Sensor Fusion and Calibration of Inertial Sensors, Vision, Ultra-Wideband and GPS](http://user.it.uu.se/~thosc112/team/hol2011.pdf)
+- [Learning-based Bias Correction for Ultra-wideband Localization of Resource-constrained Mobile Robots](https://arxiv.org/abs/2003.09371)
+  - https://www.bitcraze.io/2020/04/learning-based-bias-correction-for-accurate-ultra-wideband-localization-of-a-crazyflie/
 <br/>
+
 
 
 ### Graph 

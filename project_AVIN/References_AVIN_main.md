@@ -118,6 +118,10 @@ Started to write on July 1 2019
 - [Deep Multi-modal Object Detection and Semantic Segmentation for Autonomous Driving: Datasets, Methods, and Challenges](https://boschresearch.github.io/multimodalperception/)
 - A survey on 3d object detection methods for autonomous driving applications
 - Deep learning for generic object detection: A survey
+
+*Written by Sorin Grigorescu*
+- [A survey of deep learning techniques for autonomous driving](https://arxiv.org/abs/1910.07738)
+- [Deep Grid Net (DGN)_A Deep Learning System for Real-Time Driving Context Understanding](https://arxiv.org/abs/1901.05203)
 <br/>
 
 *Semantic segmentation*
@@ -127,6 +131,9 @@ Started to write on July 1 2019
 
 
 ### Object detection
+*Survey*
+- [Object Detection in 20 Years: A Survey](https://arxiv.org/pdf/1905.05055.pdf)
+
 *2D bounding box detection*
 - https://handong1587.github.io/deep_learning/2015/10/09/object-detection.html
 - [Recent advances in object detection in the age of deep convolutional neural networks](https://hal.archives-ouvertes.fr/hal-01869779/document)
