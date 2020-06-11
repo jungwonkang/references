@@ -109,6 +109,20 @@ Started to write on July 1 2019
 <br/>
 
 
+<!--
+##############################################################################################################################
+##############################################################################################################################
+-->
+## Object Detection & Instance Segmentation
+  - AdaptIS: Adaptive Instance Selection Network
+  - CornerNet: detecting objects as paired keypoints
+    - Pixels to graphs by associative embedding
+	- Associative embedding: End-to-end learning for joint detection and grouping
+  - CenterNet: Keypoint Triplets for Object Detection  
+<br/>
+<br/>
+
+
 
 <!--
 ##############################################################################################################################
