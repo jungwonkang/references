@@ -369,3 +369,10 @@ Started to write on July 1 2019
 
 
 
+
+### ITSC 2020
+- Railroad semantic segmentation on high-resolution images
+- An Open Data Set for Rail Vehicle Positioning Experiments _slide
+<br/>
+
+
