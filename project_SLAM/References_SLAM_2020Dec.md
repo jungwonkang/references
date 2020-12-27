@@ -4,7 +4,7 @@ Started to write on Dec 2020
 
 #### Scale issue
 - LIMO: LiDAR monocular visual odometry
-- Monocular vision-based localization using ORB-SLAM with LiDAR-aided mapping in real_world robot challenge
+- Monocular vision-based localization using ORB-SLAM with LiDAR-aided mapping in real-world robot challenge
 <br/>
 <br/>
 
