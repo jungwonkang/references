@@ -37,8 +37,16 @@ Started to write on Dec 2020
 <br/>
 
 
-#### Depth and ego-motion
+#### Depth estimation
 - Neural Ray Surfaces for Self-Supervised Learning of Depth and Ego-motion
+- Dual CNN Models for Unsupervised Monocular Depth Estimation
+- Unsupervised Monocular Depth Estimation with Left-Right Consistency
+<br/>
+<br/>
+
+
+#### Depth estimation with something like ego-motion, flow, ...
+- DF-Net_Unsupervised Joint Learning of Depth and Flow using Cross-Task Consistency
 - Unsupervised Scale-consistent Depth and Ego-motion Learning from Monocular Video
 <br/>
 <br/>
