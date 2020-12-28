@@ -33,11 +33,14 @@ Started to write on Dec 2020
 - Balanced Depth Completion between Dense Depth Inference and Sparse Range Measurements via KISS-GP
 - Self-Supervised Sparse-to-Dense_Self-Supervised Depth Completion from LiDAR and Monocular Camera
 - Sparse and Dense Data with CNNs_Depth Completion and Semantic Segmentation
+- Learning Joint 2D-3D Representations for Depth Completion
+- DeepLiDAR: Deep Surface Normal Guided Depth Prediction for Outdoor Scene from Sparse LiDAR Data and Single Color Image
 <br/>
 <br/>
 
 
 #### Depth estimation
+- Digging Into Self-Supervised Monocular Depth Estimation
 - Neural Ray Surfaces for Self-Supervised Learning of Depth and Ego-motion
 - Dual CNN Models for Unsupervised Monocular Depth Estimation
 - Unsupervised Monocular Depth Estimation with Left-Right Consistency
