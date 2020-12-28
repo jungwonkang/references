@@ -49,7 +49,7 @@ Started to write on Dec 2020
 
 
 #### Depth estimation with something like ego-motion, flow, ...
-- DF-Net_Unsupervised Joint Learning of Depth and Flow using Cross-Task Consistency
+- DF-Net: Unsupervised Joint Learning of Depth and Flow using Cross-Task Consistency
 - Unsupervised Scale-consistent Depth and Ego-motion Learning from Monocular Video
 <br/>
 <br/>
@@ -64,7 +64,7 @@ Started to write on Dec 2020
 
 
 #### Etc
-- f-BRS_Rethinking Backpropagating Refinement for Interactive Segmentation
+- f-BRS: Rethinking Backpropagating Refinement for Interactive Segmentation
 <br/>
 <br/>
 
