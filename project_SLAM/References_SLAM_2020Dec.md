@@ -32,7 +32,6 @@ Started to write on Dec 2020
 #### Depth completion
 - Balanced Depth Completion between Dense Depth Inference and Sparse Range Measurements via KISS-GP
 - Self-Supervised Sparse-to-Dense_Self-Supervised Depth Completion from LiDAR and Monocular Camera
-- Sparse and Dense Data with CNNs_Depth Completion and Semantic Segmentation
 - Learning Joint 2D-3D Representations for Depth Completion
 - DeepLiDAR: Deep Surface Normal Guided Depth Prediction for Outdoor Scene from Sparse LiDAR Data and Single Color Image
 <br/>
@@ -48,9 +47,13 @@ Started to write on Dec 2020
 <br/>
 
 
-#### Depth estimation with something like ego-motion, flow, ...
+#### Depth estimation/completion with something like ego-motion, flow, semantics...
 - DF-Net: Unsupervised Joint Learning of Depth and Flow using Cross-Task Consistency
 - Unsupervised Scale-consistent Depth and Ego-motion Learning from Monocular Video
+- FuseNet: Incorporating Depth into Semantic Segmentation via Fusion-based CNN Architecture
+- Simultaneous Semantic Segmentation and Depth Completion with Constraint of Boundary
+- Sparse and Dense Data with CNNs: Depth Completion and Semantic Segmentation
+- Semantic Segmentation of Urban Scenes Using Dense Depth Maps
 <br/>
 <br/>
 
