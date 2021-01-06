@@ -43,6 +43,7 @@ Started to write on Dec 2020
 - Neural Ray Surfaces for Self-Supervised Learning of Depth and Ego-motion
 - Dual CNN Models for Unsupervised Monocular Depth Estimation
 - Unsupervised Monocular Depth Estimation with Left-Right Consistency
+- PackNet-SfM: 3D Packing for Self-Supervised Monocular Depth Estimation
 <br/>
 <br/>
 
