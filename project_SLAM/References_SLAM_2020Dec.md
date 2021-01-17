@@ -44,6 +44,7 @@ Started to write on Dec 2020
 - Dual CNN Models for Unsupervised Monocular Depth Estimation
 - Unsupervised Monocular Depth Estimation with Left-Right Consistency
 - PackNet-SfM: 3D Packing for Self-Supervised Monocular Depth Estimation
+- FisheyeDistanceNet: Self-Supervised Scale-Aware Distance Estimation using Monocular Fisheye Camera for Autonomous Driving
 <br/>
 <br/>
 
