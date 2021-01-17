@@ -70,6 +70,9 @@ Started to write on Dec 2020
 
 #### Etc
 - f-BRS: Rethinking Backpropagating Refinement for Interactive Segmentation
+- WoodScape: A multi-task, multi-camera fisheye dataset for autonomous driving
+- DDAD - Dense Depth for Autonomous Driving
+  - https://github.com/TRI-ML/DDAD
 <br/>
 <br/>
 
