@@ -98,6 +98,7 @@ Started to write on Dec 2020
 - https://github.com/rpng/open_vins
 - https://github.com/PRBonn/semantic_suma
 - https://github.com/TixiaoShan/LIO-SAM
+  - https://github.com/gisbi-kim/SC-LIO-SAM
 <br/>
 <br/>
 
