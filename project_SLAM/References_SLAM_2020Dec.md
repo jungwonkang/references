@@ -97,6 +97,7 @@ Started to write on Dec 2020
 - https://github.com/dongjing3309/minisam
 - https://github.com/rpng/open_vins
 - https://github.com/PRBonn/semantic_suma
+- https://github.com/TixiaoShan/LIO-SAM
 <br/>
 <br/>
 
