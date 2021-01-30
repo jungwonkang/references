@@ -99,6 +99,9 @@ Started to write on Dec 2020
 - https://github.com/PRBonn/semantic_suma
 - https://github.com/TixiaoShan/LIO-SAM
   - https://github.com/gisbi-kim/SC-LIO-SAM
+- https://github.com/RobustFieldAutonomyLab/LeGO-LOAM
+- https://github.com/HKUST-Aerial-Robotics/A-LOAM
+- https://github.com/wh200720041/floam
 <br/>
 <br/>
 
