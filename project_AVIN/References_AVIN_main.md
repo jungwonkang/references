@@ -370,9 +370,11 @@ Started to write on July 1 2019
 
 
 
-### ITSC 2020
-- Railroad semantic segmentation on high-resolution images
-- An Open Data Set for Rail Vehicle Positioning Experiments _slide
+### Updated
+- Railroad semantic segmentation on high-resolution images (ITSC 2020)
+- An Open Data Set for Rail Vehicle Positioning Experiments (ITSC 2020)
+- RailNet: An Information Aggregation Network for Rail Track Segmentation
+- RailNet: a Segmentation Network for Railroad Detection
 <br/>
 
 
