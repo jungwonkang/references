@@ -34,6 +34,7 @@ Started to write on Dec 2020
 - Self-Supervised Sparse-to-Dense_Self-Supervised Depth Completion from LiDAR and Monocular Camera
 - Learning Joint 2D-3D Representations for Depth Completion
 - DeepLiDAR: Deep Surface Normal Guided Depth Prediction for Outdoor Scene from Sparse LiDAR Data and Single Color Image
+- S3CNet: A Sparse Semantic Scene Completion Network for LiDAR Point Clouds
 <br/>
 <br/>
 
