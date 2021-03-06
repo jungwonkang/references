@@ -4,6 +4,7 @@ Started to write on Dec 2020
 
 #### Scale issue
 - LIMO: LiDAR monocular visual odometry
+- Monocular vision-based localization using ORB-SLAM with LiDAR-aided mapping in real-world robot challenge
 <br/>
 <br/>
 
@@ -61,12 +62,26 @@ Started to write on Dec 2020
 
 
 #### SLAM
+- SuMa++: Efficient LiDAR-based Semantic SLAM
 - Closed-loop benchmarking of stereo visual-intertial SLAM sytems
 - gradSLAM: Automagically differentiable SLAM
 <br/>
 <br/>
 
 
+### LiDAR odometry
+- CAE-LO: LiDAR Odometry Leveraging Fully Unsupervised Convolutional Auto-Encoder for Interest Point Detection and Feature Description
+  - https://github.com/SRainGit/CAE-LO
+- DeepLO: Geometry-Aware Deep LiDAR Odometry
+- DeepPCO: End-to-End Point Cloud Odometry through Deep Parallel Neural Network
+- DeLiO: Decoupled LiDAR Odometry
+- DeLORA: Self-supervised Learning of LiDAR Odometry for Robotic Applications
+  - https://github.com/leggedrobotics/DeLORA
+- DMLO: Deep Matching LiDAR Odometry
+- LO-Net: Deep Real-time Lidar Odometry
+- SelfVoxeLO: Self-supervised LiDAR Odometry with Voxel-based Deep Neural Networks
+<br/>
+<br/>
 
 
 #### Etc
