@@ -58,7 +58,7 @@ Revised on Mar 6 2021
 #### LOAM variant (designed for a specific sensor)
 - [LOAM Livox] A fast, robust, high-precision LiDAR odometry and mapping package for LiDARs of small FoV (ICRA 2020)
 
-#### code
+#### Code
 - [laboshinl/loam_velodyne] https://github.com/laboshinl/loam_velodyne
 - [RobustFieldAutonomyLab/LeGO-LOAM] https://github.com/RobustFieldAutonomyLab/LeGO-LOAM
 - [A-LOAM] https://github.com/HKUST-Aerial-Robotics/A-LOAM
