@@ -83,7 +83,6 @@ Revised on Mar 6 2021
 -->
 ## [Base] IMU Preintegration
 
-#### Clearly stated
 - [A general optimization-based framework for local odometry estimation with multiple sensor](https://arxiv.org/abs/1901.03638)
   - Code: https://github.com/HKUST-Aerial-Robotics/VINS-Fusion
   <!-- Clearly, stating that 'Within two time instants, t-1 and t, the preintegration produces relative position, velocity and rotation'. -->
