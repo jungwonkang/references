@@ -1,21 +1,61 @@
-# References - SLAM (supplementary)
+# References - SLAM (etc)
 
-Started to write on Jan 7 2020
+Revised on Mar 6 2021
+
+<!-- 
+######################################################################################################################################################
+######################################################################################################################################################
+-->
+## Depth estimation
+
+#### Depth completion
+- Balanced Depth Completion between Dense Depth Inference and Sparse Range Measurements via KISS-GP
+- Self-Supervised Sparse-to-Dense_Self-Supervised Depth Completion from LiDAR and Monocular Camera
+- Learning Joint 2D-3D Representations for Depth Completion
+- DeepLiDAR: Deep Surface Normal Guided Depth Prediction for Outdoor Scene from Sparse LiDAR Data and Single Color Image
+- S3CNet: A Sparse Semantic Scene Completion Network for LiDAR Point Clouds
+
+
+#### Depth estimation
+- Digging Into Self-Supervised Monocular Depth Estimation
+- Neural Ray Surfaces for Self-Supervised Learning of Depth and Ego-motion
+- Dual CNN Models for Unsupervised Monocular Depth Estimation
+- Unsupervised Monocular Depth Estimation with Left-Right Consistency
+- PackNet-SfM: 3D Packing for Self-Supervised Monocular Depth Estimation
+- FisheyeDistanceNet: Self-Supervised Scale-Aware Distance Estimation using Monocular Fisheye Camera for Autonomous Driving
+
+
+#### Depth estimation/completion with something like ego-motion, flow, semantics...
+- DF-Net: Unsupervised Joint Learning of Depth and Flow using Cross-Task Consistency
+- Unsupervised Scale-consistent Depth and Ego-motion Learning from Monocular Video
+- FuseNet: Incorporating Depth into Semantic Segmentation via Fusion-based CNN Architecture
+- Simultaneous Semantic Segmentation and Depth Completion with Constraint of Boundary
+- Sparse and Dense Data with CNNs: Depth Completion and Semantic Segmentation
+- Semantic Segmentation of Urban Scenes Using Dense Depth Maps
+<br/>
+<br/>
 
 
 <!-- 
 ######################################################################################################################################################
 ######################################################################################################################################################
 -->
-## SLAM group
-
-#### IRAP-KAIST
-- Complex Urban Dataset with Multi-level Sensors from Highly Diverse Urban Environments (IJRR 2019)
-- Complex Urban LiDAR Data Set (ICRA 2018)
-- The road is enough_extrinsic calibration of non-overlapping stereo camera and LiDAR using road information
+#### DPC net (pose correction net)
+- DPC-Net_Deep Pose Correction for Visual Localization
+- Self-Supervised Deep Pose Corrections for Robust Visual Odometry
+- Self-Supervised Scale Recovery for Monocular Depth and Egomotion Estimation
 <br/>
 <br/>
 
+
+<!-- 
+######################################################################################################################################################
+######################################################################################################################################################
+-->
+## LiDAR-based localization
+- DH3D: Deep Hierarchical 3D Descriptors for Robust Large-Scale 6DoF Relocalization
+<br/>
+<br/>
 
 
 <!-- 
@@ -35,7 +75,6 @@ Started to write on Jan 7 2020
 - [UAL course on factor graph](https://github.com/jlblancoc/2020-ual-factor-graphs-course)
 <br/>
 <br/>
-
 
 
 <!-- 
@@ -73,15 +112,12 @@ Started to write on Jan 7 2020
 <br/>
 
 
-
 <!-- 
 ######################################################################################################################################################
 ######################################################################################################################################################
 -->
 ## Etc
-<!--
-#### Etc
--->
+
 #### Paper
 - [Spatiotemporal Camera-LiDAR Calibration:A Targetless and Structureless Approach](https://arxiv.org/abs/2001.06175?fbclid=IwAR2alEbmlpDjdJ7HIrBn-046y7jsfKkMifauZV6YQnZ42QoPQIZD5pXo73w)
 - Comparison of various SLAM systems for mobile robot in an indoor environment
@@ -93,8 +129,7 @@ Started to write on Jan 7 2020
 #### Material
 - [Towards robust and safe autonomous drones](https://www.slideshare.net/SERENEWorkshop/towards-robust-and-safe-autonomous-drones)
 - [Description of VINS-Mono](https://alexanderhmw.blog/2018/04/24/vins-mono-a-robust-and-versatile-monocular-visual-inertial-state-estimator-3/)
-- [A Tutorial on Quantitative Trajectory Evaluation for Visual(-Inertial) Odometry](https://github.com/uzh-rpg/rpg_trajectory_evaluation)
+<br/>
+<br/>
 
-#### Youtube channel
-- [SLAM KR youtube channel (in Korean)](https://www.youtube.com/channel/UCXvT7auo7xUd7v0B2pmvwIA)
 

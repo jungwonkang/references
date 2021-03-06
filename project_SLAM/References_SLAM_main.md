@@ -54,6 +54,7 @@ Revised on Mar 6 2021
 - A Tight Coupling of Vision-Lidar Measurements for an Effective Odometry (IV 2019)
 - [VISO2 + LOAM] Loose coupling visual-lidar odometry by combining VISO2 and LOAM (CCC 2017)
 
+
 #### LOAM variant (designed for a specific sensor)
 - [LOAM Livox] A fast, robust, high-precision LiDAR odometry and mapping package for LiDARs of small FoV (ICRA 2020)
 
@@ -192,6 +193,7 @@ Revised on Mar 6 2021
 - A Simultaneous Localization and Mapping (SLAM) Framework for 2.5D Map Building Based on Low-Cost LiDAR and Vision Fusion
 - [RTAB-MAP] RTAB-Map as an Open-Source Lidar and Visual SLAM Library for Large-Scale and Long-Term Online Operation (JFR 2019)
   - http://introlab.github.io/rtabmap/
+- LIMO: LiDAR monocular visual odometry
 
 #### Panoramic Vision-LiDAR SLAM
 - 3D Scene Reconstruction Using Omnidirectional Vision and LiDAR A Hybrid Approach
@@ -270,9 +272,10 @@ Revised on Mar 6 2021
 - Maplab
   - MAPLAB_An Open Framework for Research in Visual-inertial Mapping and Localization
   - Robust Visual Inertial Odometry Using a Direct EKF-Based Approach
+- OpenVINS: A Research Platform for Visual-Inertial Estimation
+  - https://github.com/rpng/open_vins
 <br/>
 <br/>
-
 
 
 <!-- 
@@ -282,9 +285,23 @@ Revised on Mar 6 2021
 ## Code
 - [pySLAM](https://github.com/luigifreda/pyslam)
   - https://pythonawesome.com/a-toy-implementation-of-a-visual-odometry-vo-pipeline-in-python-2/
+- https://github.com/gisbi-kim/PyICP-SLAM
+- https://github.com/dongjing3309/minisam
+- https://github.com/TixiaoShan/LIO-SAM
+  - https://github.com/gisbi-kim/SC-LIO-SAM
 <br/>
 <br/>
 
+
+<!-- 
+######################################################################################################################################################
+######################################################################################################################################################
+-->
+## Dataset
+- Complex Urban Dataset with Multi-level Sensors from Highly Diverse Urban Environments (IJRR 2019)
+- Complex Urban LiDAR Data Set (ICRA 2018)
+<br/>
+<br/>
 
 
 <!-- 
@@ -304,27 +321,17 @@ Revised on Mar 6 2021
 -->
 ## Uncategorized yet
 - LM-Reloc_Levenberg-Marquardt Based Direct Visual Relocalization
-
-
-
-
-
-
-
-
-#### Visual Odometry/SLAM
+- Closed-loop benchmarking of stereo visual-intertial SLAM sytems
+- gradSLAM: Automagically differentiable SLAM
 - PTAM, DTAM
 - LSD
-
-
-#### code
-- ORB + LOAM
-  - https://github.com/306327680/loam-loop-closure
-
-
-
-
-
 - [ICRA2020] Lidar-Monocular Visual Odometry using Point and Line Features
 - [ICRA2020] Visual Odometry Revisited_What Should Be Learnt
+- f-BRS: Rethinking Backpropagating Refinement for Interactive Segmentation
+- WoodScape: A multi-task, multi-camera fisheye dataset for autonomous driving
+- DDAD - Dense Depth for Autonomous Driving
+  - https://github.com/TRI-ML/DDAD
+- [ORB + LOAM] https://github.com/306327680/loam-loop-closure
+
+
 
