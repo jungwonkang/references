@@ -40,7 +40,7 @@ Revised on Mar 6 2021
 ######################################################################################################################################################
 ######################################################################################################################################################
 -->
-#### DPC net (pose correction net)
+## DPC net (pose correction net)
 - DPC-Net_Deep Pose Correction for Visual Localization
 - Self-Supervised Deep Pose Corrections for Robust Visual Odometry
 - Self-Supervised Scale Recovery for Monocular Depth and Egomotion Estimation
