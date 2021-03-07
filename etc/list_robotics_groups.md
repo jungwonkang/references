@@ -13,7 +13,7 @@ Revised on Mar 6 2021
 - [Univ of Toronto] Space & Terrestrial Autonomous Robotic Systems (Dr. Jonathan Kelly)
   - https://starslab.ca/
 
-- [TUM] Computer Vision Group
+- [TUM] Computer Vision Group (Dr. Daniel Cremers)
   - https://vision.in.tum.de/
 
 - [Univ of Bonn] StachnissLab Photogrammetry & Robotics (Dr. Cyrill Stachniss)
