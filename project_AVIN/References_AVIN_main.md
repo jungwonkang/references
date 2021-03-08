@@ -375,6 +375,7 @@ Started to write on July 1 2019
 - An Open Data Set for Rail Vehicle Positioning Experiments (ITSC 2020)
 - RailNet: An Information Aggregation Network for Rail Track Segmentation
 - RailNet: a Segmentation Network for Railroad Detection
+- Deep Learning for Image and Point Cloud Fusion in Autonomous Driving: A Review
 <br/>
 
 
