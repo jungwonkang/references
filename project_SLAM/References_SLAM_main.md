@@ -254,9 +254,11 @@ Revised on Mar 6 2021
 ######################################################################################################################################################
 ######################################################################################################################################################
 -->
-## [Visual SLAM] framework
+## [Visual SLAM]
 - OpenVSLAM
 - [GSLAM (A General SLAM Framework and BenchMark)](https://github.com/zdzhaoyong/GSLAM)
+- OV2: A Fully Online and Versatile Visual {SLAM} for Real-Time Applications
+  - https://github.com/ov2slam/ov2slam
 <br/>
 <br/>
 
