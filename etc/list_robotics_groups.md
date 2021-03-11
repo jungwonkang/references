@@ -30,14 +30,26 @@ Revised on Mar 6 2021
 - [HKUST] Aerial Robotics Group (Dr. Shaojie Shen)
   - http://uav.ust.hk/
   - https://github.com/HKUST-Aerial-Robotics
-
+<br/>
+<br/>
 
 
 <!-- 
 ######################################################################################################################################################
 ######################################################################################################################################################
 -->
+## Personal
+- Sunglok Choi
+  - https://sites.google.com/site/sunglok/
+  
+- Sungjoon Choi
+  - https://sites.google.com/view/sungjoon-choi
 
+- Sanghyun Woo
+  - https://sites.google.com/view/sanghyunwoo/
 
-
+- Shenlong Wang
+  - http://www.cs.toronto.edu/~slwang/
+<br/>
+<br/>
 
