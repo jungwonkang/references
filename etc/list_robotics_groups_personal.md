@@ -48,6 +48,9 @@ Revised on Mar 6 2021
 - Sanghyun Woo
   - https://sites.google.com/view/sanghyunwoo/
 
+- Giseop Kim
+  - https://www.notion.so/Giseop-Kim-62c715ad51224751af6de62329925b8f
+  
 - Shenlong Wang
   - http://www.cs.toronto.edu/~slwang/
 <br/>
