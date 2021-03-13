@@ -376,6 +376,7 @@ Started to write on July 1 2019
 - RailNet: An Information Aggregation Network for Rail Track Segmentation
 - RailNet: a Segmentation Network for Railroad Detection
 - Deep Learning for Image and Point Cloud Fusion in Autonomous Driving: A Review
+- https://github.com/QingyongHu/SoTA-Point-Cloud
 <br/>
 
 
