@@ -10,6 +10,9 @@ Revised on Mar 6 2021
 - [Univ of Toronto] Autonomous Space Robotics Laboratory (Dr. Tim Barfoot)
   - http://asrl.utias.utoronto.ca/
 
+- [Univ of Toronto] Toronto Robotics and AI Laboratory (Dr. Steven Waslander)
+  - https://www.trailab.utias.utoronto.ca/
+
 - [Univ of Toronto] Space & Terrestrial Autonomous Robotic Systems (Dr. Jonathan Kelly)
   - https://starslab.ca/
 
@@ -53,6 +56,9 @@ Revised on Mar 6 2021
   
 - Shenlong Wang
   - http://www.cs.toronto.edu/~slwang/
+  
+- Jason Ku
+  - https://www.kujason.com/
 <br/>
 <br/>
 
