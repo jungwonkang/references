@@ -59,6 +59,9 @@ Revised on Mar 6 2021
   
 - Jason Ku
   - https://www.kujason.com/
+  
+- Hoseong Lee (hoya012)
+  - https://github.com/hoya012
 <br/>
 <br/>
 
