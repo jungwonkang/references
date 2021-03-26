@@ -63,6 +63,9 @@ Revised on Mar 6 2021
 - Hoseong Lee (hoya012)
   - https://github.com/hoya012
   - https://hoya012.github.io/
+
+- Jinsol Kim
+  - https://gaussian37.github.io/
 <br/>
 <br/>
 
