@@ -356,6 +356,8 @@ Revised on Mar 6 2021
 - DDAD - Dense Depth for Autonomous Driving
   - https://github.com/TRI-ML/DDAD
 - [ORB + LOAM] https://github.com/306327680/loam-loop-closure
+- https://www.emesent.io/
+  - https://research.csiro.au/robotics/our-work/research-areas/3d-lidar-mapping/
 
 
 
