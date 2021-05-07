@@ -66,6 +66,9 @@ Revised on Mar 6 2021
 
 - Jinsol Kim
   - https://gaussian37.github.io/
+
+- Hyung Gi Min
+  - https://pinkwink.kr/
 <br/>
 <br/>
 
