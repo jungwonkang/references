@@ -377,6 +377,8 @@ Started to write on July 1 2019
 - RailNet: a Segmentation Network for Railroad Detection
 - Deep Learning for Image and Point Cloud Fusion in Autonomous Driving: A Review
 - https://github.com/QingyongHu/SoTA-Point-Cloud
+- OpenPCDet Toolbox for LiDAR-based 3D Object Detection
+  - https://github.com/open-mmlab/OpenPCDet
 <br/>
 
 
