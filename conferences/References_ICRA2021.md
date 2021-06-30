@@ -35,14 +35,13 @@ The full list of workshops are available at [https://www.ieee-icra.org/workshop.
 <br/>
 
 
-### LiDAR odometry
+### Odometry/SLAM (LiDAR only)
 - [PSF-LO: Parameterized Semantic Features Based Lidar Odometry](https://arxiv.org/abs/2010.13355)
 - [Self-supervised Learning of LiDAR Odometry for Robotic Applications](https://arxiv.org/abs/2011.05418)
+- ENCODE: A dEep poiNt Cloud ODometry NEtwork
+- Automatic Hyper-Parameter Tuning for Black-Box LiDAR Odometry
+- R-LOAM: Improving LiDAR Odometry and Mapping with Point-To-Mesh Features of a Known 3D Reference Object
 <br/>
-<br/>
-
-
-### LiDAR SLAM
 - [MULLS: Versatile LiDAR SLAM Via Multi-Metric Linear Least Square](https://github.com/YuePanEdward/MULLS)
 - [Dynamic Object Aware LiDAR SLAM Based on Automatic Generation of Training Data](https://arxiv.org/abs/2104.03657)
 - [LiTAMIN2: Ultra Light LiDAR-Based SLAM Using Geometric Approximation Applied with KL-Divergence](https://arxiv.org/abs/2103.00784)
@@ -59,14 +58,9 @@ The full list of workshops are available at [https://www.ieee-icra.org/workshop.
 <br/>
 
 
-### SLAM with LiDAR and Visual Fusion
-- [CamVox: A Low-Cost and Accurate Lidar-Assisted Visual SLAM System](https://arxiv.org/abs/2011.11357)
-- Visual-Laser-Inertial SLAM Using a Compact 3D Scanner for Confined Space
+### Odometry/SLAM (Vision only)
+- Deep Online Correction for Monocular Visual Odometry
 <br/>
-<br/>
-
-
-### Visual SLAM
 - [OV2SLAM : A Fully Online and Versatile Visual SLAM for Real-Time Applications](https://github.com/ov2slam/ov2slam)
 - [Semantic SLAM with Autonomous Object-Level Data Association](https://arxiv.org/pdf/2011.10625.pdf)
 - [Asynchronous Multi-View SLAM](https://arxiv.org/abs/2101.06562)
@@ -82,18 +76,44 @@ The full list of workshops are available at [https://www.ieee-icra.org/workshop.
 <br/>
 
 
-### Visual Inertial SLAM
+### Odometry/SLAM (LiDAR + Vision)
+- [CamVox: A Low-Cost and Accurate Lidar-Assisted Visual SLAM System](https://arxiv.org/abs/2011.11357)
+- Visual-Laser-Inertial SLAM Using a Compact 3D Scanner for Confined Space
+<br/>
+<br/>
+
+
+### Odometry/SLAM (LiDAR + Inertial)
+- LIRO: Tightly Coupled Lidar-Inertia-Ranging Odometry
+- KFS-LIO: Key-Feature Selection for Lightweight Lidar Inertial Odometry
+- FAST-LIO: A Fast, Robust LiDAR-Inertial Odometry Package by Tightly-Coupled Iterated Kalman Filter
+<br/>
+<br/>
+
+
+### Odometry/SLAM (Vision + Inertial)
 - [CodeVIO: Visual-Inertial Odometry with Learned Optimizable Dense Depth](https://arxiv.org/abs/2012.10133)
+- Range-Visual-Inertial Odometry: Scale Observability without Excitation
 - [VIODE: A Simulated Dataset to Address the Challenges of Visual-Inertial Odometry in Dynamic Environments](https://arxiv.org/abs/2102.05965)
 - Collaborative Visual Inertial SLAM for Multiple Smart Phones
+- Cooperative Visual-Inertial Odometry
 - Bidirectional Trajectory Computation for Odometer-Aided Visual-Inertial SLAM
 - Optimization-Based Visual-Inertial SLAM Tightly Coupled with Raw GNSS Measurements
 - Revisiting Visual-Inertial Structure-From-Motion for Odometry and SLAM Initialization
+- Direct Sparse Stereo Visual-Inertial Global Odometry
+- Bidirectional Trajectory Computation for Odometer-Aided Visual-Inertial SLAM
 <br/>
 <br/>
 
 
-### RGB-D SLAM
+### Odometry/SLAM (LiDAR + Vision + Inertial)
+- LVI-SAM: Tightly-Coupled Lidar-Visual-Inertial Odometry Via Smoothing and Mapping
+- Unified Multi-Modal Landmark Tracking for Tightly Coupled Lidar-Visual-Inertial Odometry
+<br/>
+<br/>
+
+
+### SLAM (RGB-D)
 - Multi-Parameter Optimization for a Robust RGB-D SLAM System
 - RGB-D SLAM with Structural Regularities
 - [Towards Real-Time Semantic RGB-D SLAM in Dynamic Environments](https://arxiv.org/pdf/2104.01316.pdf)
