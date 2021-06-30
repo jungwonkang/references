@@ -115,6 +115,28 @@ Revised on Mar 6 2021
 ######################################################################################################################################################
 ######################################################################################################################################################
 -->
+## Added on June 29 2021
+
+- [Kudan 3D-Lidar SLAM (KdLidar) update: Working with tilted Lidar configurations for the mapping & surveying sector](https://www.kudan.io/archives/640)
+- [LiBackpack: versatile mobile lidar solutions (complete with machine-learning classification)](https://www.geoweeknews.com/news/libackpack-versatile-mobile-lidar-solutions-with-machine-learning-classification)
+- [Webinar: Mobile Mapping SLAM Technology - LIDAR Capture for GIS Workflows](https://youtu.be/cQMFZSYJE_Q)
+- Online LiDAR-SLAM for Legged Robots with Robust Registration and Deep-Learned Loop Closure (ICRA 2020)
+  - https://youtu.be/djf7vGtf7CA
+  - https://ori.ox.ac.uk/labs/drs/lidar-simultaneous-localization-and-mapping/
+- LCDNet: Deep Loop Closure Detection for LiDAR SLAM based on Unbalanced Optimal Transport
+  - https://youtu.be/UBkntVDLvnY
+  - http://lidar-slam-lc.cs.uni-freiburg.de/
+- LIO-SAM: Tightly-coupled Lidar Inertial Odometry via Smoothing and Mapping (IROS 2020)
+  - https://github.com/TixiaoShan/LIO-SAM
+- [LiDAR SLAM Tutorial: Integrating FAST-LIO and Scan Context](https://github.com/gisbi-kim/SC-A-LOAM#for-livox-lidar)
+<br/>
+<br/>
+
+
+<!-- 
+######################################################################################################################################################
+######################################################################################################################################################
+-->
 ## Etc
 
 #### Paper
