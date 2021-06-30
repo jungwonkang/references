@@ -115,7 +115,7 @@ The full list of workshops are available at [https://www.ieee-icra.org/workshop.
 <br/>
 
 
-### SLAM (RGB-D)
+### Odometry/SLAM (RGB-D)
 - Multi-Parameter Optimization for a Robust RGB-D SLAM System
 - RGB-D SLAM with Structural Regularities
 - [Towards Real-Time Semantic RGB-D SLAM in Dynamic Environments](https://arxiv.org/pdf/2104.01316.pdf)
@@ -123,7 +123,7 @@ The full list of workshops are available at [https://www.ieee-icra.org/workshop.
 <br/>
 
 
-### SLAM, but not categorized yet
+### Odometry/SLAM, but not categorized yet
 - [LatentSLAM: Unsupervised Multi-Sensor Representation Learning for Localization and Mapping](https://arxiv.org/abs/2105.03265)
 - Tactile SLAM: Real-Time Inference of Shape and Pose from Planar Pushing
 - ManhattanSLAM: Robust Planar Tracking and Mapping Leveraging Mixture of Manhattan Frames
