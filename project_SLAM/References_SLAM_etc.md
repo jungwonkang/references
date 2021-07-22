@@ -150,6 +150,17 @@ Revised on Mar 6 2021
 #### Material
 - [Towards robust and safe autonomous drones](https://www.slideshare.net/SERENEWorkshop/towards-robust-and-safe-autonomous-drones)
 - [Description of VINS-Mono](https://alexanderhmw.blog/2018/04/24/vins-mono-a-robust-and-versatile-monocular-visual-inertial-state-estimator-3/)
+
+#### Etc
+- hdl_graph_slam
+  - https://github.com/koide3/hdl_graph_slam
+
+- SC-LeGO-LOAM
+  - https://github.com/irapkaist/SC-LeGO-LOAM
+
+- SC-LIO-SAM
+  - https://github.com/gisbi-kim/SC-LIO-SAM
+
 <br/>
 <br/>
 
